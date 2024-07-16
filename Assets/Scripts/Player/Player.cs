@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 
 public class Player : Entity
@@ -28,6 +29,11 @@ public class Player : Entity
     public GameObject sword {  get ; private set; }
     public PlayerFX fx { get; private set; }
 
+    // Add InputSystem
+    private PlayerInputActions inputActions;
+    private Vector2 moveInput;
+    //
+
 
     #region States
     public PlayerStateMachine stateMachine { get; private set; }
@@ -54,6 +60,10 @@ public class Player : Entity
         base.Awake();
         stateMachine = new PlayerStateMachine();
 
+        // Add InputSystem
+        inputActions = new PlayerInputActions();
+        //
+
         idleState = new PlayerIdleState(this, stateMachine, "Idle");
         moveState = new PlayerMoveState(this, stateMachine, "Move");
         jumpState = new PlayerJumpState(this, stateMachine, "Jump");
@@ -76,7 +86,7 @@ public class Player : Entity
     {
         base.Start();
 
-                fx = GetComponent<PlayerFX>();
+        fx = GetComponent<PlayerFX>();
 
         skill = SkillManager.instance;
 
@@ -85,7 +95,40 @@ public class Player : Entity
         defaultMoveSpeed = moveSpeed;
         defaultJumpForce = jumpForce;
         defaultDashSpeed = dashSpeed;
+
+        // Add InputSystem
+        inputActions.Player.Movement.performed += OnMovePerformed;
+        inputActions.Player.Movement.canceled += OnMoveCanceled;
+        inputActions.Player.Jump.performed += OnJumpPerformed;
+
+        inputActions.Player.Enable();
+        //
     }
+
+    // Add InputSystem
+    private void OnMovePerformed (InputAction.CallbackContext context)
+    {
+        moveInput = context.ReadValue<Vector2>();
+    }
+
+    private void OnMoveCanceled (InputAction.CallbackContext context)
+    {
+        moveInput = Vector2.zero;
+    }
+
+    private void OnJumpPerformed (InputAction.CallbackContext context)
+    {
+        if (context.performed)
+        {
+            stateMachine.ChangeState(jumpState);
+        }
+    }
+
+    public Vector2 GetMoveInput()
+    {
+        return moveInput;
+    }
+    //
 
 
     protected override void Update()
