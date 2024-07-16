@@ -12,7 +12,11 @@ public class PlayerJumpState : PlayerState
     {
         base.Enter();
 
-        rb.velocity = new Vector2(rb.velocity.x, player.jumpForce);
+        // Fix Multi Jump
+        if (player.IsGroundDetected())
+        {
+            rb.velocity = new Vector2(rb.velocity.x, player.jumpForce);
+        }
     }
 
     public override void Exit()
@@ -24,7 +28,13 @@ public class PlayerJumpState : PlayerState
     {
         base.Update();
 
-        if (rb.velocity.y < 0)
+        // Fix Multi Jump
+        if (!player.IsGroundDetected())
+        {
             stateMachine.ChangeState(player.airState);
+        }
+        
+        //if (rb.velocity.y < 0)
+        //    stateMachine.ChangeState(player.airState);
     }
 }
