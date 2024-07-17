@@ -35,11 +35,14 @@ public class PlayerWallSlideState : PlayerState
         if (xInput != 0 && player.facingDir != xInput)
                 stateMachine.ChangeState(player.idleState);
 
-        if (yInput < 0)
-            rb.velocity = new Vector2(0, rb.velocity.y);
-        else
-            rb.velocity = new Vector2(0, rb.velocity.y * .7f);
+        float height = 12;
 
+        // if (yInput < 0)
+        //     rb.velocity = new Vector2(0, rb.velocity.y);
+        // else
+        //     rb.velocity = new Vector2(0, rb.velocity.y * .7f);
+
+        rb.velocity = yInput < 0 ? new Vector2(0, rb.velocity.y) : new Vector2(0, rb.velocity.y * .7f);
         if(player.IsGroundDetected())
                 stateMachine.ChangeState(player.idleState);
 
