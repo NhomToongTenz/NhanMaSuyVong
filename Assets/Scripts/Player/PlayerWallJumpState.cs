@@ -35,4 +35,5 @@ public class PlayerWallJumpState : PlayerState
         if (player.IsGroundDetected())
             stateMachine.ChangeState(player.idleState);
     }
+
 }
