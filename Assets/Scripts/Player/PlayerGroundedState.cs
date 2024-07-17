@@ -29,8 +29,6 @@ public class PlayerGroundedState : PlayerState
                 player.fx.CreatePopUpText("Cooldown!");
                 return;
             }
-
-
             stateMachine.ChangeState(player.blackHole);
         }
 
