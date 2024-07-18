@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -25,15 +26,19 @@ public class UI : MonoBehaviour, ISaveManager
 
     [SerializeField] private UI_VolumeSlider[] volumeSettings;
 
-    private void Awake()
+    private void OnEnable()
     {
 
-        SwitchTo(skillTreeUI); // we need this to assign events on skill tree slots before we asssign events on skill scripts
+    }
+
+    private void Awake()
+    { // we need this to assign events on skill tree slots before we asssign events on skill scripts
         fadeScreen.gameObject.SetActive(true);
     }
 
     void Start()
     {
+        SwitchTo(skillTreeUI);
         SwitchTo(inGameUI);
 
         itemToolTip.gameObject.SetActive(false);
