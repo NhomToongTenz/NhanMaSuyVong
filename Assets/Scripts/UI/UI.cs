@@ -64,15 +64,15 @@ public class UI : MonoBehaviour, ISaveManager
         if (Input.GetKeyDown(KeyCode.O))
             SwitchWithKeyTo(optionsUI);
 
-       
+       EndingScene();
 
     }
 
     public void EndingScene()
     {
-        if (FindObjectOfType<Enemy>())
+        if (FindObjectOfType<Enemy>() == null)
         {
-            
+            Debug.Log("xx");
         }
     }
 
