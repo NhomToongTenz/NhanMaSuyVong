@@ -68,6 +68,13 @@ public class UI : MonoBehaviour, ISaveManager
 
     }
 
+    public void EndingScene()
+    {
+        if (FindObjectOfType<Enemy>())
+        {
+            
+        }
+    }
 
     public void SwitchTo(GameObject _menu)
     {
