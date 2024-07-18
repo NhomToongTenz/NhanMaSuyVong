@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Thunder claw
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Thunder claw
-  itemIcon: {fileID: 367297872, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemName: Thunder bow
+  itemIcon: {fileID: 21300000, guid: 4455d2db73edc4a7c807d9a158d0cef6, type: 3}
   itemId: ba05fae8274d59a438bab968f91532ce
   dropChance: 0
   equipmentType: 0
