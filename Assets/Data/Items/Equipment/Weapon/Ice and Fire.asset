@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemType: 1
   itemName: Ice and Fire
-  itemIcon: {fileID: 1398721256, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemIcon: {fileID: 21300000, guid: 2c9249e72d3f448e8b25c642784e412c, type: 3}
   itemId: a6db18dbbf7476d4c82b3588f2b89f75
   dropChance: 0
   equipmentType: 0
