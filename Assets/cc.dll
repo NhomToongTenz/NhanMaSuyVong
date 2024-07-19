@@ -1,54 +1,8 @@
 {
-    "currency": 4790,
+    "currency": 916,
     "skillTree": {
-        "keys": [
-            "Dash - \"Actually here I am\"",
-            "Bullet sword",
-            "Blackhole",
-            "Restore with parry",
-            "Time mirage",
-            "Controlled destruction",
-            "Multiple distruction",
-            "Parry",
-            "Explosion",
-            "Crystal mirage",
-            "Mirage blink",
-            "Dash - \"Here I am\"",
-            "Aggresive mirage",
-            "Parry with a mirage",
-            "Bouncy sword",
-            "Time stop",
-            "Multiple mirage",
-            "Dash",
-            "Sword Throw",
-            "Chain saw sword",
-            "Vulnerability",
-            "Crystal"
-        ],
-        "values": [
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            true,
-            false,
-            true,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            false,
-            true,
-            false,
-            false,
-            false,
-            true
-        ]
+        "keys": [],
+        "values": []
     },
     "inventory": {
         "keys": [
@@ -66,20 +20,20 @@
             1
         ]
     },
-    "equipmentId": [
-        "41d6fe8ea96610e4e9385544b11cf860"
-    ],
+    "equipmentId": [],
     "checkpoints": {
         "keys": [
-            "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f"
+            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e",
+            "1f9877e3-2bfe-4863-9efd-5ff85fb11301"
         ],
         "values": [
+            true,
             true
         ]
     },
-    "closestCheckpointId": "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f",
-    "lostCurrencyX": -9.649599075317383,
-    "lostCurrencyY": -3.6729211807250978,
+    "closestCheckpointId": "1f9877e3-2bfe-4863-9efd-5ff85fb11301",
+    "lostCurrencyX": -6.507997035980225,
+    "lostCurrencyY": 10.327075958251954,
     "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
@@ -88,7 +42,7 @@
         ],
         "values": [
             1.0,
-            1.0
+            0.0010000000474974514
         ]
     }
 }
