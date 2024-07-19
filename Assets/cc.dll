@@ -1,5 +1,5 @@
 {
-    "currency": 1374,
+    "currency": 2290,
     "skillTree": {
         "keys": [],
         "values": []
@@ -30,8 +30,8 @@
         ]
     },
     "closestCheckpointId": "",
-    "lostCurrencyX": -16.64000129699707,
-    "lostCurrencyY": -3.6729235649108888,
+    "lostCurrencyX": -16.700002670288087,
+    "lostCurrencyY": -3.6729238033294679,
     "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
