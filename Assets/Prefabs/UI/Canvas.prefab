@@ -528,7 +528,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -207, y: 46.181}
+  m_AnchoredPosition: {x: -259.7, y: 46.181}
   m_SizeDelta: {x: 3.832, y: 45.175}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4426735633119006991
@@ -581,7 +581,7 @@ GameObject:
   - component: {fileID: 2691163517854628612}
   - component: {fileID: 4131197235780356296}
   m_Layer: 5
-  m_Name: Bullet Sword
+  m_Name: Bullet Bow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1876,7 +1876,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1916137268771089557
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1894,7 +1894,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 255.9, y: 116}
+  m_AnchoredPosition: {x: 293, y: 117}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8893392369012772750
@@ -2817,7 +2817,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -202.81396, y: -97.97196}
+  m_AnchoredPosition: {x: -265.1, y: -97.97196}
   m_SizeDelta: {x: 201.491, y: 3.678}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1966491544594090470
@@ -3130,10 +3130,10 @@ RectTransform:
   - {fileID: 7674839689592311011}
   m_Father: {fileID: 690827696939083797}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 354.582, y: -77.372}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1867051752036506374
 CanvasRenderer:
@@ -3520,10 +3520,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Dash
-  skillDescription: 'You can dash to avoid attacks.
-
-    You are invincible in the
-    time of dash.'
+  skillDescription: "L\u01B0\u1EDBt."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked: []
@@ -3829,7 +3826,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4053831301488088861
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3847,7 +3844,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 85.8, y: -6}
+  m_AnchoredPosition: {x: 292, y: -84}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4365953323354184951
@@ -4482,7 +4479,7 @@ RectTransform:
   m_Father: {fileID: 8569359042491200798}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -4727,10 +4724,10 @@ RectTransform:
   - {fileID: 7935604350101943425}
   m_Father: {fileID: 2939175113616032538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 600, y: -50}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 490, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1214565887379519850
 CanvasRenderer:
@@ -5258,8 +5255,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 4010111367804943771}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -0.6000061, y: 4}
   m_SizeDelta: {x: 100, y: 66.3}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -5639,7 +5636,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Parry
-  skillDescription: You can parry attack to avoid damage.
+  skillDescription: "\u0110\u1EE1 \u0111\xF2n \u0111\u1EC3 ch\u1EB7n k\u0129 n\u0103ng
+    c\u1EE7a qu\xE1i v\u1EADt."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked: []
@@ -6050,7 +6048,7 @@ GameObject:
   - component: {fileID: 5930869686922316598}
   - component: {fileID: 6234703260725134531}
   m_Layer: 5
-  m_Name: Sword Throw
+  m_Name: Bow Throw
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6206,7 +6204,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7948418442562653712
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6224,7 +6222,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 87, y: -168.4}
+  m_AnchoredPosition: {x: 30, y: 117}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5917255880640409547
@@ -6319,7 +6317,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &5566982462427729336
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6336,8 +6334,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 91, y: -87.3}
-  m_SizeDelta: {x: 3.832, y: 69.686}
+  m_AnchoredPosition: {x: 34, y: 46.953}
+  m_SizeDelta: {x: 3.832, y: 41.781}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9219284216503765891
 CanvasRenderer:
@@ -7597,7 +7595,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -213, y: -26}
+  m_AnchoredPosition: {x: -266.4, y: -26}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2424500661213920852
@@ -8129,7 +8127,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6684815060538818130
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8507,7 +8505,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1174849281259571960
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8524,7 +8522,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -102.9, y: -226.6}
+  m_AnchoredPosition: {x: -161.5, y: -226.6}
   m_SizeDelta: {x: 3.832, y: 21.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4455897452460414355
@@ -8988,7 +8986,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &5863233847981439472
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9394,7 +9392,7 @@ RectTransform:
   m_Father: {fileID: 7298098108597971143}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0.000015258789, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -10177,7 +10175,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4785037792907230515
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10194,7 +10192,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -207, y: -251.83}
+  m_AnchoredPosition: {x: -258.9, y: -251.83}
   m_SizeDelta: {x: 3.832, y: 36.336}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &835324480626092132
@@ -10502,7 +10500,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -102.9, y: -106.92}
+  m_AnchoredPosition: {x: -162.8, y: -106.92}
   m_SizeDelta: {x: 3.832, y: 21.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5523439685479351420
@@ -10654,7 +10652,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -306.6, y: -168.6}
+  m_AnchoredPosition: {x: -375.9, y: -168.6}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3424664236413997195
@@ -10727,10 +10725,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1157319510041260368}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 179.3225, y: -50}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3868148154404404713
 CanvasRenderer:
@@ -10925,8 +10923,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Crystal mirage
-  skillDescription: "You create crystal instead of mirage. \nWith all it's qualites.\n[Only
-    one upgrade can be choosen]"
+  skillDescription: "T\u1EA1o ra nh\u1EEFng vi\xEAn pha l\xEA t\u1EF1 \u0111\u1ED9ng
+    bay t\u1EDBi m\u1EE5c ti\xEAu c\u1EE7a nh\xE2n v\u1EADt."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -11024,7 +11022,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7904986060676024398
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11268,10 +11266,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1157319510041260368}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 319.3225, y: -50}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &831794559032922611
 CanvasRenderer:
@@ -12275,81 +12273,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!1 &3250088920752834125
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7182443058028679130}
-  - component: {fileID: 5562680353585425930}
-  - component: {fileID: 2371251700709101763}
-  m_Layer: 5
-  m_Name: Image (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &7182443058028679130
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3250088920752834125}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4749389323481456468}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 151.1, y: 115.49}
-  m_SizeDelta: {x: 123.74, y: 2.8922}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &5562680353585425930
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3250088920752834125}
-  m_CullTransparentMesh: 1
---- !u!114 &2371251700709101763
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3250088920752834125}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &3257350405214060234
 GameObject:
   m_ObjectHideFlags: 0
@@ -12384,10 +12307,10 @@ RectTransform:
   - {fileID: 8121958540858314602}
   m_Father: {fileID: 7230951777245462460}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 254.582, y: -77.372}
+  m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2749884135609717612
 CanvasRenderer:
@@ -12957,10 +12880,10 @@ RectTransform:
   - {fileID: 6387119555193216206}
   m_Father: {fileID: 690827696939083797}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 254.582, y: -77.372}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6431267961095334339
 CanvasRenderer:
@@ -13166,7 +13089,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -207, y: -85.98}
+  m_AnchoredPosition: {x: -258.9, y: -85.98}
   m_SizeDelta: {x: 3.832, y: 23.334}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4084100149867554389
@@ -13707,10 +13630,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1157319510041260368}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 39.322495, y: -50}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7734119365532535279
 CanvasRenderer:
@@ -14221,7 +14144,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8124217529764153214
 RectTransform:
   m_ObjectHideFlags: 0
@@ -14239,7 +14162,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 88, y: -338.9}
+  m_AnchoredPosition: {x: 28, y: -24}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9002615634362435060
@@ -14449,7 +14372,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -526, y: -167}
+  m_AnchoredPosition: {x: -567.8, y: -167}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8462085058468474343
@@ -14951,7 +14874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Vulnerability
-  skillDescription: Enemy hit by sword , takes 10% more damage.
+  skillDescription: "Qu\xE1i v\u1EADt s\u1EBD nh\u1EADn th\xEAm 10% s\xE1t th\u01B0\u01A1ng."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -15532,10 +15455,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Aggresive mirage
-  skillDescription: 'Your mirage has 80% of your damage.
-
-    Your mirage can apply
-    on hit effects.'
+  skillDescription: "Ph\xE2n th\xE2n s\u1EDF h\u1EEFu 80% t\u1EA5n c\xF4ng c\u1EE7a
+    nh\xE2n v\u1EADt v\xE0 c\xF3 th\u1EC3 \xE1p d\u1EE5ng hi\u1EC7u \u1EE9ng tr\xEAn
+    \u0111\xF2n \u0111\xE1nh."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -15856,10 +15778,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1157319510041260368}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 249.3225, y: -50}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2602775092786043273
 CanvasRenderer:
@@ -16384,8 +16306,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 5833575433366095425}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -0.6000061, y: 4}
   m_SizeDelta: {x: 100, y: 66.3}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -17522,7 +17444,7 @@ GameObject:
   - component: {fileID: 6617107531483722116}
   - component: {fileID: 7921124187724462454}
   m_Layer: 5
-  m_Name: SkillTreeSlot_UI - Sword Throw
+  m_Name: SkillTreeSlot_UI - Bow Throw
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17568,8 +17490,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skillCost: 0
-  skillName: Sword Throw
-  skillDescription: Throws sword into the enemy.
+  skillName: Bow Throw
+  skillDescription: "B\u1EAFn ra m\u0169i t\xEAn v\u1EC1 ph\xEDa m\xE0 ng\u01B0\u1EDDi
+    ch\u01A1i nh\u1EAFm."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked: []
@@ -18689,8 +18612,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -603.8685, y: -24.4}
-  m_SizeDelta: {x: 72.431, y: 3.035}
+  m_AnchoredPosition: {x: -627.01556, y: -24.4}
+  m_SizeDelta: {x: 26.137, y: 3.035}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3456875428108621928
 CanvasRenderer:
@@ -18919,10 +18842,10 @@ RectTransform:
   - {fileID: 2646560084225537348}
   m_Father: {fileID: 7230951777245462460}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 154.582, y: -77.372}
+  m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1645615329034831676
 CanvasRenderer:
@@ -19072,7 +18995,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &7246138148350287903
 RectTransform:
   m_ObjectHideFlags: 0
@@ -19954,7 +19877,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8999433242362702345}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 88725315081834333}
+        m_TargetAssemblyTypeName: UI, Assembly-CSharp
+        m_MethodName: SaveAndExit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &5313829279449906866
 GameObject:
   m_ObjectHideFlags: 0
@@ -20122,7 +20057,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3341250106405999022
 RectTransform:
   m_ObjectHideFlags: 0
@@ -20138,10 +20073,10 @@ RectTransform:
   - {fileID: 593323497988544871}
   m_Father: {fileID: 2939175113616032538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 380, y: -50}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1990196200900548682
 CanvasRenderer:
@@ -20242,10 +20177,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Time mirage
-  skillDescription: 'Your mirage can attack targets.
-
-    Your mirage has 30% of
-    your damage.'
+  skillDescription: "T\u1EA1o ra m\u1ED9t ph\xE2n th\xE2n \u0111\xE1nh chung v\u1EDBi
+    nh\xE2n v\u1EADt. Ph\xE2n th\xE2n s\u1EDF h\u1EEFu 30% c\u1EE7a nh\xE2n v\u1EADt."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked: []
@@ -20937,7 +20870,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -518, y: -94.593}
+  m_AnchoredPosition: {x: -559.6, y: -94.593}
   m_SizeDelta: {x: 3.832, y: 44.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4452382871693749192
@@ -21182,7 +21115,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4752542385679182189
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21199,7 +21132,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -302, y: -226.6}
+  m_AnchoredPosition: {x: -366.9, y: -226.6}
   m_SizeDelta: {x: 3.832, y: 21.578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3664890231873159037
@@ -21402,7 +21335,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 510494869459092584}
-  - {fileID: 7182443058028679130}
   - {fileID: 3033085002500176820}
   - {fileID: 6309228392893970418}
   - {fileID: 7246138148350287903}
@@ -21410,7 +21342,6 @@ RectTransform:
   - {fileID: 6028171917126093486}
   - {fileID: 6684815060538818130}
   - {fileID: 8981723946070552276}
-  - {fileID: 3784289679588376283}
   - {fileID: 5566982462427729336}
   - {fileID: 4624277672795994422}
   - {fileID: 7920617893538406588}
@@ -22354,10 +22285,10 @@ RectTransform:
   - {fileID: 4716896966618758590}
   m_Father: {fileID: 2939175113616032538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 270, y: -50}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3750515108984057641
 CanvasRenderer:
@@ -22431,10 +22362,10 @@ RectTransform:
   - {fileID: 1836472574017314931}
   m_Father: {fileID: 7230951777245462460}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 454.582, y: -77.372}
+  m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4217484680600954532
 CanvasRenderer:
@@ -22564,10 +22495,10 @@ RectTransform:
   - {fileID: 4012912831883319160}
   m_Father: {fileID: 690827696939083797}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 454.582, y: -77.372}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &963898854180214923
 CanvasRenderer:
@@ -23078,10 +23009,10 @@ RectTransform:
   - {fileID: 4727572355899706471}
   m_Father: {fileID: 7230951777245462460}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 354.582, y: -77.372}
+  m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8383117244604331005
 CanvasRenderer:
@@ -23344,7 +23275,7 @@ GameObject:
   - component: {fileID: 2134503536957085824}
   - component: {fileID: 1738888471553540896}
   m_Layer: 5
-  m_Name: SkillTreeSlot_UI - Bouncy sword
+  m_Name: SkillTreeSlot_UI - Bouncy bow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23390,11 +23321,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skillCost: 0
-  skillName: Bouncy sword
-  skillDescription: 'Sword can boucne beetwen targets.
-
-    [Only one sword upgrade
-    can be choose]'
+  skillName: Bouncy bow
+  skillDescription: "M\u0169i t\xEAn s\u1EBD t\u1EF1 \u0111\u1ED9ng n\u1EA3y gi\u1EEFa
+    c\xE1c m\u1EE5c ti\xEAu g\u1EA7n nhau."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -23510,10 +23439,10 @@ RectTransform:
   - {fileID: 5085035160653928279}
   m_Father: {fileID: 690827696939083797}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 154.582, y: -77.372}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8091000690619905756
 CanvasRenderer:
@@ -23718,7 +23647,7 @@ RectTransform:
   m_Father: {fileID: 275774371718431474}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: -0.000061035156, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -24240,7 +24169,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Parry with a mirage
-  skillDescription: You create a clone with succsesful parry.
+  skillDescription: "T\u1EA1o ra m\u1ED9t ph\xE2n th\xE2n n\u1EBFu \u0111\u1EE1 \u0111\xF2n
+    th\xE0nh c\xF4ng."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -24552,7 +24482,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3576656410267770046
 RectTransform:
   m_ObjectHideFlags: 0
@@ -24569,7 +24499,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -202.81396, y: -235.5}
+  m_AnchoredPosition: {x: -264.1, y: -235.5}
   m_SizeDelta: {x: 201.491, y: 3.678}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &88016425526429463
@@ -24720,7 +24650,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -525, y: -26}
+  m_AnchoredPosition: {x: -569.9, y: -26}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8427918431864128946
@@ -24794,10 +24724,10 @@ RectTransform:
   - {fileID: 5714253314669353420}
   m_Father: {fileID: 2939175113616032538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 490, y: -50}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 380, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2127921906244155344
 CanvasRenderer:
@@ -25205,7 +25135,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -117.8, y: -168.4}
+  m_AnchoredPosition: {x: -170, y: -168.4}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5753185476183177143
@@ -25263,7 +25193,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6505278717270186140
 RectTransform:
   m_ObjectHideFlags: 0
@@ -25339,7 +25269,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4624277672795994422
 RectTransform:
   m_ObjectHideFlags: 0
@@ -25356,8 +25286,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 91.5, y: 79.2}
-  m_SizeDelta: {x: 3.832, y: 69.686}
+  m_AnchoredPosition: {x: 299, y: 17.987}
+  m_SizeDelta: {x: 3.832, y: 101.565}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1681349734283601280
 CanvasRenderer:
@@ -26808,7 +26738,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -214, y: 117}
+  m_AnchoredPosition: {x: -268, y: 117}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4898759951854608155
@@ -27069,7 +26999,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3002817113842951013
 RectTransform:
   m_ObjectHideFlags: 0
@@ -28216,7 +28146,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3033085002500176820
 RectTransform:
   m_ObjectHideFlags: 0
@@ -28617,7 +28547,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -302, y: -106.92}
+  m_AnchoredPosition: {x: -368.4, y: -106.92}
   m_SizeDelta: {x: 3.832, y: 21.578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1408174384046849101
@@ -28719,7 +28649,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Restore with parry
-  skillDescription: You restore a bit of health with succsesful parry.
+  skillDescription: "C\xF3 th\u1EC3 h\u1ED3i m\xE1u n\u1EBFu \u0111\u1EE1 \u0111\xF2n
+    th\xE0nh c\xF4ng"
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -29143,81 +29074,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!1 &7461162701136346390
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3784289679588376283}
-  - component: {fileID: 7116564853729712068}
-  - component: {fileID: 7529614405005744090}
-  m_Layer: 5
-  m_Name: Image (5)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &3784289679588376283
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7461162701136346390}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4749389323481456468}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 93, y: -252.20999}
-  m_SizeDelta: {x: 3.832, y: 72.306}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &7116564853729712068
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7461162701136346390}
-  m_CullTransparentMesh: 1
---- !u!114 &7529614405005744090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7461162701136346390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &7524239924420873893
 GameObject:
   m_ObjectHideFlags: 0
@@ -29444,7 +29300,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6938273612658465509
 RectTransform:
   m_ObjectHideFlags: 0
@@ -29564,7 +29420,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Time stop
-  skillDescription: When enemy hit by sword, his time stops.
+  skillDescription: "Qu\xE1i v\u1EADt s\u1EBD b\u1ECB \u0111\xF3ng b\u0103ng v\xE0o
+    m\u1ED9t kho\u1EA3ng th\u1EDDi gian nh\u1EA5t \u0111\u1ECBnh khi b\u1ECB \u0111\xE1nh
+    tr\xFAng."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -29685,7 +29543,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6309228392893970418
 RectTransform:
   m_ObjectHideFlags: 0
@@ -30177,10 +30035,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1157319510041260368}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 109.322495, y: -50}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2433551700459880647
 CanvasRenderer:
@@ -31244,7 +31102,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &8981723946070552276
 RectTransform:
   m_ObjectHideFlags: 0
@@ -31860,7 +31718,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &996247664574541295
 RectTransform:
   m_ObjectHideFlags: 0
@@ -31878,7 +31736,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -213.2, y: -320}
+  m_AnchoredPosition: {x: -265.1, y: -320}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &857844258417810406
@@ -32027,10 +31885,10 @@ RectTransform:
   - {fileID: 6335736492973646541}
   m_Father: {fileID: 2939175113616032538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 50, y: -50}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7759541589459476866
 CanvasRenderer:
@@ -32131,12 +31989,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skillCost: 0
   skillName: Multiple mirage
-  skillDescription: 'Your  mirage has 30% of your attack.
-
-    Your mirgae can spawn
-    another mirage.
-
-    [Only one upgrade can be choosen]'
+  skillDescription: "Ph\xE2n th\xE2n s\u1EDF h\u1EEFu 30% t\u1EA5n c\xF4ng c\u1EE7a
+    nh\xE2n v\u1EADt v\xE0 c\xF3 th\u1EC3 sinh ra ph\xE2n th\xE2n c\u1EE7a ph\xE2n
+    th\xE2n."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -32163,7 +32018,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1698427825, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  m_Sprite: {fileID: -1871167390, guid: b773a9dd5bac247738d79283f876fcf4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -32594,7 +32449,7 @@ GameObject:
   - component: {fileID: 1170480258859998614}
   - component: {fileID: 4499954961493702519}
   m_Layer: 5
-  m_Name: SkillTreeSlot_UI - Bullet sword
+  m_Name: SkillTreeSlot_UI - Bullet bow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32640,11 +32495,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skillCost: 0
-  skillName: Bullet sword
-  skillDescription: 'Sword can peirce targets.
-
-    [Only one sword upgrade can be
-    choose]'
+  skillName: Bullet bow
+  skillDescription: "M\u0169i t\xEAn s\u1EBD t\u1EF1 \u0111\u1ED9ng \u0111\u1ECBnh
+    v\u1ECB m\u1EE5c ti\xEAu."
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -33374,10 +33227,10 @@ RectTransform:
   - {fileID: 440374030046738797}
   m_Father: {fileID: 2939175113616032538}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 160, y: -50}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &924688110075310844
 CanvasRenderer:
@@ -34011,7 +33864,7 @@ GameObject:
   - component: {fileID: 7703645279632627780}
   - component: {fileID: 1077561196276417054}
   m_Layer: 5
-  m_Name: SkillTreeSlot_UI - Chain saw sword
+  m_Name: SkillTreeSlot_UI - Chain saw bow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34057,11 +33910,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skillCost: 0
-  skillName: Chain saw sword
-  skillDescription: 'Sword will spin like a chain saw.
-
-    [Only one sword upgrade
-    can be choose]'
+  skillName: Chain saw bow
+  skillDescription: "M\u0169i t\xEAn s\u1EBD xoay nh\u01B0 m\u1ED9t l\u1ED1c xo\xE1y"
   lockedSkillColor: {r: 0.49056602, g: 0.40957633, b: 0.40957633, a: 1}
   unlocked: 0
   shouldBeUnlocked:
@@ -34771,7 +34621,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &510494869459092584
 RectTransform:
   m_ObjectHideFlags: 0
@@ -34788,8 +34638,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 368.7, y: 115.131}
-  m_SizeDelta: {x: 115.644, y: 3.611}
+  m_AnchoredPosition: {x: 387.99384, y: 115.131}
+  m_SizeDelta: {x: 77.056, y: 3.611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &212572820847783985
 CanvasRenderer:
@@ -35166,7 +35016,7 @@ RectTransform:
   m_Father: {fileID: 3051918800272253735}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
