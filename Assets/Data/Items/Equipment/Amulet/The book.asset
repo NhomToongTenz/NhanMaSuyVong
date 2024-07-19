@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: The book
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Ring
-  itemIcon: {fileID: 21300000, guid: cccbe0a42541a4ee7b51ce20a923c00c, type: 3}
+  itemName: The book
+  itemIcon: {fileID: 21300000, guid: db74315890dfe48f283032f482867f55, type: 3}
   itemId: c08ffa0379da8ee4f83af3b7dc175bdc
   dropChance: 0
   equipmentType: 2
