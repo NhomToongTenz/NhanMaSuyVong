@@ -29,7 +29,17 @@ public class UI_MainMenu : MonoBehaviour
     public void ExitGame()
     {
         Debug.Log("Exit game");
-        //Application.Quit();
+
+        StartCoroutine(QuitEff());
+    }
+
+    IEnumerator QuitEff()
+    {
+        fadeScreen.FadeOut();
+
+        yield return new WaitForSeconds(2f);
+
+        Application.Quit();
     }
 
     IEnumerator LoadSceneWithFadeEffect(float _delay)

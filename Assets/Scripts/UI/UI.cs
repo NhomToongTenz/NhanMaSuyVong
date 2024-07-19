@@ -79,11 +79,18 @@ public class UI : MonoBehaviour, ISaveManager
     public void SaveAndExit()
     {
         SaveManager.instance.SaveGame();
+        SwitchTo(inGameUI);
+        StartCoroutine(LoadingScene_());
+    }
 
+    IEnumerator LoadingScene_()
+    {
+        fadeScreen.FadeOut();
+        yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene(0);
     }
     IEnumerator _EndingScene()
     {
-
         endingScene.gameObject.SetActive(true);
         yield return new WaitForSeconds(5f);
         SceneManager.LoadScene(0);
