@@ -10,7 +10,7 @@ public class UI : MonoBehaviour, ISaveManager
     [SerializeField] private UI_FadeScreen fadeScreen;
     [SerializeField] private GameObject endText;
     [SerializeField] private GameObject restartButton;
-    [Space]
+    [Space] [SerializeField] private GameObject endingScene;
 
     [SerializeField] private GameObject charcaterUI;
     [SerializeField] private GameObject skillTreeUI;
@@ -71,10 +71,22 @@ public class UI : MonoBehaviour, ISaveManager
 
     public void EndingScene()
     {
-        if (FindObjectOfType<Enemy>() == null)
+        if (FindObjectOfType<Enemy_DeathBringer>() == null)
         {
-            Debug.Log("xx");
+            StartCoroutine(_EndingScene());
         }
+    }
+    public void SaveAndExit()
+    {
+        SaveManager.instance.SaveGame();
+
+    }
+    IEnumerator _EndingScene()
+    {
+
+        endingScene.gameObject.SetActive(true);
+        yield return new WaitForSeconds(5f);
+        SceneManager.LoadScene(0);
     }
 
     public void SwitchTo(GameObject _menu)

@@ -8824,6 +8824,7 @@ MonoBehaviour:
   fadeScreen: {fileID: 8944257899196555438}
   endText: {fileID: 2746949167929075992}
   restartButton: {fileID: 1856603998889332841}
+  endingScene: {fileID: 0}
   charcaterUI: {fileID: 6895859869159650106}
   skillTreeUI: {fileID: 4945916109306217008}
   craftUI: {fileID: 3127583296129500908}
