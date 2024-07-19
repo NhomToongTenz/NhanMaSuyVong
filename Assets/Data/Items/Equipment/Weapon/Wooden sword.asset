@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Wooden sword
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Wooden bow
-  itemIcon: {fileID: 21300000, guid: f81780fd0f7064229bb5a7c1632fb81a, type: 3}
+  itemName: Wooden sword
+  itemIcon: {fileID: 21300000, guid: 036e4db281fca402eac90801dfea24ae, type: 3}
   itemId: 5ece859a2341cf24880a2aed82b76148
   dropChance: 64.2
   equipmentType: 0
