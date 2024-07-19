@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemType: 1
   itemName: Amulet of god
-  itemIcon: {fileID: 21300000, guid: f705d15ed8c704ebcac8d7b0305396a5, type: 3}
+  itemIcon: {fileID: 21300000, guid: cccbe0a42541a4ee7b51ce20a923c00c, type: 3}
   itemId: 9209f5c03870ad140b30358835f156bb
   dropChance: 4.5
   equipmentType: 2
@@ -35,4 +35,8 @@ MonoBehaviour:
   fireDamage: 0
   iceDamage: 0
   lightingDamage: 15
-  craftingMaterials: []
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
+    stackSize: 0
+  - data: {fileID: 11400000, guid: 6835c34bd80fc9c468d2f549f4b6220a, type: 2}
+    stackSize: 0
