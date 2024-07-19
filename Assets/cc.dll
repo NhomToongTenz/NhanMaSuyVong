@@ -1,0 +1,46 @@
+{
+    "currency": 458,
+    "skillTree": {
+        "keys": [],
+        "values": []
+    },
+    "inventory": {
+        "keys": [
+            "d8f58e18c1da00143accd968a6c18188",
+            "0dd5b227fb7b62541b0fbccda677392d",
+            "7d1998873a09b094e99b326bbbc9cccc",
+            "9209f5c03870ad140b30358835f156bb",
+            "80c04e02cab30284c834fcee3d24d83c"
+        ],
+        "values": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ]
+    },
+    "equipmentId": [],
+    "checkpoints": {
+        "keys": [
+            "8d3adcc2-b4da-42b1-8959-5ac7afb01f3f"
+        ],
+        "values": [
+            false
+        ]
+    },
+    "closestCheckpointId": "",
+    "lostCurrencyX": -6.238752365112305,
+    "lostCurrencyY": -3.6729202270507814,
+    "lostCurrencyAmount": 0,
+    "volumeSettings": {
+        "keys": [
+            "sfx",
+            "bgm"
+        ],
+        "values": [
+            1.0,
+            1.0
+        ]
+    }
+}
