@@ -902,7 +902,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxItemsToDrop: 0
-  itemPool: []
+  itemPool:
+  - {fileID: 11400000, guid: 1fc54958788ad4b49acce7f1d0989161, type: 2}
+  - {fileID: 11400000, guid: 6835c34bd80fc9c468d2f549f4b6220a, type: 2}
   dropPrefab: {fileID: 8730514117533583190, guid: 7aaa3324c1c4b054ebebaafe3343bf25, type: 3}
 --- !u!114 &5529630772379239639
 MonoBehaviour:
