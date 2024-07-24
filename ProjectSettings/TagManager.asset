@@ -67,3 +67,6 @@ TagManager:
   - name: FX
     uniqueID: 1515849559
     locked: 0
+  - name: Particles
+    uniqueID: 3498586367
+    locked: 0
