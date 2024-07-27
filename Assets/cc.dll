@@ -1,5 +1,5 @@
 {
-    "currency": 916,
+    "currency": 3748,
     "skillTree": {
         "keys": [
             "Bullet bow",
@@ -21,15 +21,15 @@
             false,
             false,
             false,
+            true,
             false,
             false,
             false,
             false,
+            true,
             false,
             false,
-            false,
-            false,
-            false,
+            true,
             false,
             false
         ]
@@ -39,8 +39,8 @@
             "d8f58e18c1da00143accd968a6c18188",
             "0dd5b227fb7b62541b0fbccda677392d",
             "7d1998873a09b094e99b326bbbc9cccc",
-            "9209f5c03870ad140b30358835f156bb",
-            "80c04e02cab30284c834fcee3d24d83c"
+            "80c04e02cab30284c834fcee3d24d83c",
+            "9209f5c03870ad140b30358835f156bb"
         ],
         "values": [
             1,
@@ -57,13 +57,13 @@
             "1f9877e3-2bfe-4863-9efd-5ff85fb11301"
         ],
         "values": [
-            true,
-            true
+            false,
+            false
         ]
     },
-    "closestCheckpointId": "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e",
-    "lostCurrencyX": -36.470001220703128,
-    "lostCurrencyY": 7.327079772949219,
+    "closestCheckpointId": "",
+    "lostCurrencyX": 12.85024642944336,
+    "lostCurrencyY": 10.327079772949219,
     "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
@@ -72,7 +72,7 @@
         ],
         "values": [
             1.0,
-            0.6083207726478577
+            1.0
         ]
     }
 }
