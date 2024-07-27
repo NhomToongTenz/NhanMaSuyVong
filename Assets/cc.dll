@@ -1,5 +1,5 @@
 {
-    "currency": 3748,
+    "currency": 8554,
     "skillTree": {
         "keys": [
             "Bullet bow",
@@ -30,31 +30,31 @@
             false,
             false,
             true,
-            false,
-            false
+            true,
+            true
         ]
     },
     "inventory": {
         "keys": [
             "d8f58e18c1da00143accd968a6c18188",
-            "0dd5b227fb7b62541b0fbccda677392d",
-            "7d1998873a09b094e99b326bbbc9cccc",
-            "80c04e02cab30284c834fcee3d24d83c",
-            "9209f5c03870ad140b30358835f156bb"
+            "41d6fe8ea96610e4e9385544b11cf860",
+            "7d1998873a09b094e99b326bbbc9cccc"
         ],
         "values": [
             1,
             1,
-            2,
-            1,
-            1
+            2
         ]
     },
-    "equipmentId": [],
+    "equipmentId": [
+        "0dd5b227fb7b62541b0fbccda677392d",
+        "9209f5c03870ad140b30358835f156bb",
+        "80c04e02cab30284c834fcee3d24d83c"
+    ],
     "checkpoints": {
         "keys": [
-            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e",
-            "1f9877e3-2bfe-4863-9efd-5ff85fb11301"
+            "1f9877e3-2bfe-4863-9efd-5ff85fb11301",
+            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e"
         ],
         "values": [
             false,
@@ -62,8 +62,8 @@
         ]
     },
     "closestCheckpointId": "",
-    "lostCurrencyX": 12.85024642944336,
-    "lostCurrencyY": 10.327079772949219,
+    "lostCurrencyX": -22.558544158935548,
+    "lostCurrencyY": -6.672889709472656,
     "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
