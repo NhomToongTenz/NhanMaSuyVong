@@ -1,8 +1,38 @@
 {
-    "currency": 0,
+    "currency": 458,
     "skillTree": {
-        "keys": [],
-        "values": []
+        "keys": [
+            "Bullet bow",
+            "Restore with parry",
+            "Time mirage",
+            "Parry",
+            "Crystal mirage",
+            "Aggresive mirage",
+            "Parry with a mirage",
+            "Bouncy bow",
+            "Time stop",
+            "Multiple mirage",
+            "Dash",
+            "Bow Throw",
+            "Chain saw bow",
+            "Vulnerability"
+        ],
+        "values": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
     },
     "inventory": {
         "keys": [
@@ -23,8 +53,8 @@
     "equipmentId": [],
     "checkpoints": {
         "keys": [
-            "1f9877e3-2bfe-4863-9efd-5ff85fb11301",
-            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e"
+            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e",
+            "1f9877e3-2bfe-4863-9efd-5ff85fb11301"
         ],
         "values": [
             true,
@@ -32,8 +62,8 @@
         ]
     },
     "closestCheckpointId": "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e",
-    "lostCurrencyX": -36.470001220703128,
-    "lostCurrencyY": 7.327065944671631,
+    "lostCurrencyX": -36.10999298095703,
+    "lostCurrencyY": 7.327077865600586,
     "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
