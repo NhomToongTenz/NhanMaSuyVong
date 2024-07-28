@@ -11,7 +11,7 @@ public class UI_ToolTip : MonoBehaviour
     [SerializeField] private float xOffset = 150;
     [SerializeField] private float yOffset = 150;
    
-    public virtual void AdjustPosition()
+    public virtual void AdjustPosition(Transform _transform)
     {
         Vector2 mousePosition = Input.mousePosition;
 
@@ -28,7 +28,7 @@ public class UI_ToolTip : MonoBehaviour
         else
             newYoffset = yOffset;
 
-        transform.position = new Vector2(mousePosition.x + newXoffset, mousePosition.y + newYoffset);
+        transform.position = new Vector2(_transform.position.x + newXoffset, mousePosition.y + newYoffset);
     }
 
     public void AdjustFontSize(TextMeshProUGUI _text)
