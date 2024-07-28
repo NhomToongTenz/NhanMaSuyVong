@@ -19,12 +19,14 @@ public class PlayerPrimaryAttackState : PlayerState
     {
         base.Enter();
 
-        //AudioManager.instance.PlaySFX(2); // attack sound effect
+        AudioManager.instance.PlaySFX(2, null);
 
-        xInput = 0;  // we need this to fix bug on attack direction
+        xInput = 0;
 
         if (comboCounter > 2 || Time.time >= lastTimeAttacked + comboWindow)
+        {
             comboCounter = 0;
+        }
 
         player.anim.SetInteger("ComboCounter", comboCounter);
 
