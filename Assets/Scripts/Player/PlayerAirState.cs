@@ -33,7 +33,7 @@ public class PlayerAirState : PlayerState
                             else if(player.primaryAttack.comboCounter > 2)
                                 stateMachine.ChangeState(player.airState);
                         }
-        
+
 
 
         if (!player.IsGroundDetected() && Input.GetKeyDown(KeyCode.Mouse1))
