@@ -7,10 +7,10 @@ public class UI_StatToolTip : UI_ToolTip
 {
     [SerializeField] private TextMeshProUGUI description;
     
-    public void ShowStatToolTip( string _text)
+    public void ShowStatToolTip( string _text, Transform _transform)
     {
         description.text = _text;
-        AdjustPosition();
+        AdjustPosition(_transform);
 
         gameObject.SetActive(true);
     }
