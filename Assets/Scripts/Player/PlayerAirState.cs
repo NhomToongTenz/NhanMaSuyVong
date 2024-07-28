@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Timeline.Actions;
 using UnityEngine;
 
 
 public class PlayerAirState : PlayerState
 {
+    private int counter = 0;
     public PlayerAirState(Player _player, PlayerStateMachine _stateMachine, string _animBoolName) : base(_player, _stateMachine, _animBoolName)
     {
     }
@@ -19,12 +21,20 @@ public class PlayerAirState : PlayerState
         base.Exit();
     }
 
+
     public override void Update()
     {
         base.Update();
 
-        if (!player.IsGroundDetected() && Input.GetKeyDown(KeyCode.Mouse0))
-            stateMachine.ChangeState(player.primaryAttack);
+          if (!player.IsGroundDetected() && Input.GetKeyDown(KeyCode.Mouse0))
+                        {
+                            if(player.primaryAttack.comboCounter <= 2)
+                                stateMachine.ChangeState(player.primaryAttack);
+                            else if(player.primaryAttack.comboCounter > 2)
+                                stateMachine.ChangeState(player.airState);
+                        }
+        
+
 
         if (!player.IsGroundDetected() && Input.GetKeyDown(KeyCode.Mouse1))
             stateMachine.ChangeState(player.aimSowrd);
