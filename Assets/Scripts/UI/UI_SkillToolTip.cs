@@ -10,7 +10,7 @@ public class UI_SkillToolTip : UI_ToolTip
     [SerializeField] private TextMeshProUGUI skillCost;
     [SerializeField] private float defaultNameFontSize;
     
-    public void ShowToolTip(string _skillDescprtion,string _skillName,int _price)
+    public void ShowToolTip(string _skillDescprtion,string _skillName,int _price, Transform _transform)
     {
         if (Input.GetKey(KeyCode.LeftControl))
             return; // this hides tooltip if you hide left control
@@ -19,7 +19,9 @@ public class UI_SkillToolTip : UI_ToolTip
         skillText.text = _skillDescprtion;
         skillCost.text = "Cost: " + _price;
 
-        AdjustPosition();
+
+
+        AdjustPosition(_transform);
 
         AdjustFontSize(skillName);
 

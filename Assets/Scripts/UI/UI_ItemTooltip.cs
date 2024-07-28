@@ -11,7 +11,7 @@ public class UI_ItemTooltip : UI_ToolTip
 
     [SerializeField] private int defaultFontSize = 32;
 
-    public void ShowToolTip(ItemData_Equipment item)
+    public void ShowToolTip(ItemData_Equipment item, Transform _transform)
     {
         if (item == null)
             return;
@@ -21,7 +21,7 @@ public class UI_ItemTooltip : UI_ToolTip
         itemDescription.text = item.GetDescription();
 
         AdjustFontSize(itemNameText);
-        AdjustPosition();
+        AdjustPosition(_transform);
 
         gameObject.SetActive(true);
     }
