@@ -1,5 +1,5 @@
 {
-    "currency": 8554,
+    "currency": 10386,
     "skillTree": {
         "keys": [
             "Bullet bow",
@@ -53,8 +53,8 @@
     ],
     "checkpoints": {
         "keys": [
-            "1f9877e3-2bfe-4863-9efd-5ff85fb11301",
-            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e"
+            "d7a31198-d7ac-4ac6-92e7-8c2c9f0dc02e",
+            "1f9877e3-2bfe-4863-9efd-5ff85fb11301"
         ],
         "values": [
             false,
@@ -62,8 +62,8 @@
         ]
     },
     "closestCheckpointId": "",
-    "lostCurrencyX": -22.558544158935548,
-    "lostCurrencyY": -6.672889709472656,
+    "lostCurrencyX": -17.0,
+    "lostCurrencyY": -3.672924041748047,
     "lostCurrencyAmount": 0,
     "volumeSettings": {
         "keys": [
