@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Animal skin
+  m_Name: "G\u1ED7"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Animal skin
-  itemIcon: {fileID: 21300000, guid: 289bddc1462d14306b61907b3a182461, type: 3}
-  itemId: 69369925ed773dd4f904c6f9ad97e8a1
+  itemName: "G\u1ED7"
+  itemIcon: {fileID: 21300000, guid: 9bc8d806fdc1944e58eba8e30ce286fa, type: 3}
+  itemId: 1fc54958788ad4b49acce7f1d0989161
   dropChance: 100

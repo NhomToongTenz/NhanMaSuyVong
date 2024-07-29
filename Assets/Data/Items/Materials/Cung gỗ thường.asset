@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Cloth
+  m_Name: "Cung g\u1ED7 th\u01B0\u1EDDng"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Cloth
-  itemIcon: {fileID: 2133846500, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
-  itemId: d4606b3a097405a48b469cfa439b193b
+  itemName: "Cung g\u1ED7 th\u01B0\u1EDDng"
+  itemIcon: {fileID: 21300000, guid: 036e4db281fca402eac90801dfea24ae, type: 3}
+  itemId: 5a6cd81aaf50a814cbd0bfa954c58a68
   dropChance: 100

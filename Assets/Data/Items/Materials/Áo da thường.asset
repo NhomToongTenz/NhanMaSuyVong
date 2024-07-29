@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Wood
+  m_Name: "\xC1o da th\u01B0\u1EDDng"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Wood
-  itemIcon: {fileID: 21300000, guid: 9bc8d806fdc1944e58eba8e30ce286fa, type: 3}
-  itemId: 1fc54958788ad4b49acce7f1d0989161
-  dropChance: 100
+  itemName: "\xC1o da th\u01B0\u1EDDng"
+  itemIcon: {fileID: 21300000, guid: bb0594a6b5439446a9c8ef866a35c45f, type: 3}
+  itemId: aa2bc36c8c6e18d4fa19d98a060e572b
+  dropChance: 0

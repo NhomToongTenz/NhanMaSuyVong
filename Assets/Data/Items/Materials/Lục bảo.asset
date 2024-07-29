@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Fire herb
+  m_Name: "L\u1EE5c b\u1EA3o"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Fire herb
-  itemIcon: {fileID: 1386026132, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
-  itemId: aa2bc36c8c6e18d4fa19d98a060e572b
-  dropChance: 0
+  itemName: "L\u1EE5c b\u1EA3o"
+  itemIcon: {fileID: 21300000, guid: 604e560e9487e4a4089848e06f6ad631, type: 3}
+  itemId: 839fd2910ad77e744a35af1a16bb4118
+  dropChance: 100

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Thread
+  m_Name: "M\u1EAFt qu\xE1i v\u1EADt"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Thread
-  itemIcon: {fileID: 1748745940, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
-  itemId: eba8ceb1cae4615479d5ce6a9d61367d
+  itemName: "M\u1EAFt qu\xE1i v\u1EADt"
+  itemIcon: {fileID: 21300000, guid: ad0b8e67800ce41e7adeb610b6b1451f, type: 3}
+  itemId: 6835c34bd80fc9c468d2f549f4b6220a
   dropChance: 100
