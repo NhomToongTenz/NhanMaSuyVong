@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Glass
+  m_Name: "C\xE0 r\u1ED1t"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Glass
-  itemIcon: {fileID: 1656236034, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
-  itemId: 851b2617e69f79c4db6a4c9278516982
-  dropChance: 100
+  itemName: "C\xE0 r\u1ED1t"
+  itemIcon: {fileID: 21300000, guid: 7ccc8a5d1763040b98cb872adc20d990, type: 3}
+  itemId: a0300e0089d439943998db8ef1c2617f
+  dropChance: 0

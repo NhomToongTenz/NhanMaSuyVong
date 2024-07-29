@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: Diamond
+  m_Name: "C\xE1nh"
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: Diamond
-  itemIcon: {fileID: 1534190214, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
-  itemId: 14caadcff121d434e8b031ae47985e10
+  itemName: "C\xE1nh"
+  itemIcon: {fileID: 21300000, guid: 289bddc1462d14306b61907b3a182461, type: 3}
+  itemId: 851b2617e69f79c4db6a4c9278516982
   dropChance: 100
