@@ -912,7 +912,7 @@ MonoBehaviour:
   itemPool:
   - {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
   - {fileID: 11400000, guid: 14caadcff121d434e8b031ae47985e10, type: 2}
-  - {fileID: 11400000, guid: ba05fae8274d59a438bab968f91532ce, type: 2}
+  - {fileID: 11400000, guid: 23dab0def0f934e4798e7f071ba6ecfa, type: 2}
   dropPrefab: {fileID: 8730514117533583190, guid: 7aaa3324c1c4b054ebebaafe3343bf25, type: 3}
 --- !u!1 &5413061283799475925
 GameObject:
