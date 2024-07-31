@@ -70,3 +70,6 @@ TagManager:
   - name: Particles
     uniqueID: 3498586367
     locked: 0
+  - name: NPC
+    uniqueID: 2407818451
+    locked: 0
