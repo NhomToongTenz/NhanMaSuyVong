@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: Fire flask
+  m_Name: "D\xE2y Chuy\u1EC1n B\u0103ng Gi\xE1"
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Fire flask
-  itemIcon: {fileID: 21300000, guid: 747f5f81fc7d34209806671b73657e9b, type: 3}
-  itemId: c1bf065c876ec8a40b75ef69fe45ba87
+  itemName: "D\xE2y Chuy\u1EC1n B\u0103ng Gi\xE1"
+  itemIcon: {fileID: 21300000, guid: db74315890dfe48f283032f482867f55, type: 3}
+  itemId: c08ffa0379da8ee4f83af3b7dc175bdc
   dropChance: 0
-  equipmentType: 3
+  equipmentType: 2
   itemCooldown: 0
   itemEffects:
-  - {fileID: 11400000, guid: 201f4d5dbd75a7a4c9b544ff6c409d3a, type: 2}
+  - {fileID: 11400000, guid: 9911a097d6d288742b87f26ccb443844, type: 2}
   strength: 0
   agility: 0
   intelligence: 0
@@ -33,6 +33,12 @@ MonoBehaviour:
   evasion: 0
   magicResistance: 0
   fireDamage: 0
-  iceDamage: 0
+  iceDamage: 15
   lightingDamage: 0
-  craftingMaterials: []
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: eb240d8e2c8358d448769b8c5bb1af05, type: 2}
+    stackSize: 1
+  - data: {fileID: 11400000, guid: 14caadcff121d434e8b031ae47985e10, type: 2}
+    stackSize: 1
+  - data: {fileID: 11400000, guid: 201dcf32c23b82649acb65349e91bd6a, type: 2}
+    stackSize: 20
