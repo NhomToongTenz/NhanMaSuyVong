@@ -10,29 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: Dracula's sword
+  m_Name: "Thu\u1ED1c h\u1ED3i m\xE1u nh\u1ECF"
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Dracula's bow
-  itemIcon: {fileID: 21300000, guid: ca82ffb77814b4f60ae6925b2857d38f, type: 3}
-  itemId: 41d6fe8ea96610e4e9385544b11cf860
-  dropChance: 10.9
-  equipmentType: 0
-  itemCooldown: 0
+  itemName: "Thu\u1ED1c h\u1ED3i m\xE1u nh\u1ECF"
+  itemIcon: {fileID: 21300000, guid: 7f3986b2ca5aa4681993b370ba360a29, type: 3}
+  itemId: 087a35a0d928da04cae034988e2b837f
+  dropChance: 0
+  equipmentType: 3
+  itemCooldown: 15
   itemEffects:
-  - {fileID: 11400000, guid: 6c856b30363c5aa4a9b61061df07fd57, type: 2}
-  - {fileID: 11400000, guid: 96d164f1d9cffae45ba8731e7346df8c, type: 2}
+  - {fileID: 11400000, guid: 1106161ba039dfb408f7a4587beb43a1, type: 2}
   strength: 0
   agility: 0
   intelligence: 0
   vitality: 0
-  damage: 15
-  critChance: 15
+  damage: 0
+  critChance: 0
   critPower: 0
   health: 0
   armor: 0
   evasion: 0
-  magicResistance: 25
+  magicResistance: 0
   fireDamage: 0
   iceDamage: 0
   lightingDamage: 0

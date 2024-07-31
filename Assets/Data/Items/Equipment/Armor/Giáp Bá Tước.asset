@@ -10,29 +10,33 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: Blue wolf armor
+  m_Name: "Gi\xE1p B\xE1 T\u01B0\u1EDBc"
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Blue wolf armor
-  itemIcon: {fileID: 21300000, guid: 4baf2ea48716d4463a056605cd0c6a29, type: 3}
-  itemId: 0dd5b227fb7b62541b0fbccda677392d
-  dropChance: 0
+  itemName: "Gi\xE1p B\xE1 T\u01B0\u1EDBc"
+  itemIcon: {fileID: 21300000, guid: 26e71119934884eb7a247bf958a496da, type: 3}
+  itemId: d8f58e18c1da00143accd968a6c18188
+  dropChance: 23.1
   equipmentType: 1
-  itemCooldown: 5
+  itemCooldown: 0
   itemEffects:
-  - {fileID: 11400000, guid: 9911a097d6d288742b87f26ccb443844, type: 2}
-  strength: 4
+  - {fileID: 11400000, guid: 6c856b30363c5aa4a9b61061df07fd57, type: 2}
+  strength: 15
   agility: 0
   intelligence: 0
   vitality: 0
-  damage: 0
+  damage: 15
   critChance: 0
   critPower: 0
-  health: 50
-  armor: 15
+  health: 15
+  armor: 10
   evasion: 0
-  magicResistance: 15
+  magicResistance: 0
   fireDamage: 0
   iceDamage: 0
   lightingDamage: 0
-  craftingMaterials: []
+  craftingMaterials:
+  - data: {fileID: 0}
+    stackSize: 0
+  - data: {fileID: 0}
+    stackSize: 0

@@ -10,17 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: Armor flask
+  m_Name: "Thu\u1ED1c h\u1ED3i m\xE1u v\u1EEBa"
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: Armor flask
-  itemIcon: {fileID: 21300000, guid: 9ad82adf8253b4d9a8bc889f1846ea74, type: 3}
-  itemId: b66b0f27ad01c7842a4116772ce69b99
+  itemName: "Thu\u1ED1c h\u1ED3i m\xE1u nh\u1ECF"
+  itemIcon: {fileID: 21300000, guid: 7f3986b2ca5aa4681993b370ba360a29, type: 3}
+  itemId: 087a35a0d928da04cae034988e2b837f
   dropChance: 0
   equipmentType: 3
   itemCooldown: 15
   itemEffects:
-  - {fileID: 11400000, guid: 53bd1140079402f4ba729fd68e091304, type: 2}
   - {fileID: 11400000, guid: 1106161ba039dfb408f7a4587beb43a1, type: 2}
   strength: 0
   agility: 0

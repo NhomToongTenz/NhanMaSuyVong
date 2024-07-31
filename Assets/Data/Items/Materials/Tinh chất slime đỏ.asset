@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
+  m_Name: "Tinh ch\u1EA5t slime \u0111\u1ECF"
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "Tinh ch\u1EA5t slime \u0111\u1ECF"
+  itemIcon: {fileID: 21300000, guid: 6a0d0486036184fed94afdfa6577aa53, type: 3}
+  itemId: 7dd62a7bcbcc4f741aa0c15bce09ae50
+  dropChance: 0
