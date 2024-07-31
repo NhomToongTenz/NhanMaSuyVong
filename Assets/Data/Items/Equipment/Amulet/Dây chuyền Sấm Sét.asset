@@ -44,5 +44,3 @@ MonoBehaviour:
     stackSize: 1
   - data: {fileID: 11400000, guid: eba8ceb1cae4615479d5ce6a9d61367d, type: 2}
     stackSize: 4
-  - data: {fileID: 11400000, guid: 7a3e7a111e52ebc4f9ee66e2e10dcf5a, type: 2}
-    stackSize: 4
