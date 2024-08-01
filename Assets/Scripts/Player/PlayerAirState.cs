@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class PlayerAirState : PlayerState
 {
-    private int counter = 0;
     public PlayerAirState(Player _player, PlayerStateMachine _stateMachine, string _animBoolName) : base(_player, _stateMachine, _animBoolName)
     {
     }
