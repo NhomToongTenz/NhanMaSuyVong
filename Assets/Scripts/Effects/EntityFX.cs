@@ -12,10 +12,6 @@ public class EntityFX : MonoBehaviour
     [Header("Pop Up Text")]
     [SerializeField] private GameObject popUpTextPrefab;
 
-
-
-    
-
     [Header("Flash FX")]
     [SerializeField] private float flashDuration;
     [SerializeField] private Material hitMat;
@@ -82,13 +78,18 @@ public class EntityFX : MonoBehaviour
     }
 
 
-    private IEnumerator FlashFX()
-    {
+    public bool takeDmg;
+
+    private IEnumerator FlashFX() {
+        takeDmg = true;
+
         sr.material = hitMat;
         Color currentColor = sr.color;
         sr.color = Color.white;
 
         yield return new WaitForSeconds(flashDuration);
+
+        takeDmg = false;
 
         sr.color = currentColor;
         sr.material = originalMat;
