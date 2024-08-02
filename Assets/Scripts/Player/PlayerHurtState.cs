@@ -9,7 +9,7 @@ public class PlayerHurtState : PlayerState
     public override void Update() {
         base.Update();
 
-        Debug.Log(player.fx.takeDmg);
+        //Debug.Log(player.fx.takeDmg);
         if(triggerCalled)
             stateMachine.ChangeState(player.idleState);
     }
