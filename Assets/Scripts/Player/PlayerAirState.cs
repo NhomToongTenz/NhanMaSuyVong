@@ -10,28 +10,15 @@ public class PlayerAirState : PlayerState
     {
     }
 
-    public override void Enter()
-    {
-        base.Enter();
-    }
-
-    public override void Exit()
-    {
-        base.Exit();
-    }
-
-
     public override void Update()
     {
         base.Update();
 
           if (!player.IsGroundDetected() && Input.GetKeyDown(KeyCode.Mouse0))
-                        {
-                            if(player.primaryAttack.comboCounter <= 2)
-                                stateMachine.ChangeState(player.primaryAttack);
-                            else if(player.primaryAttack.comboCounter > 2)
-                                stateMachine.ChangeState(player.airState);
-                        }
+              if(player.primaryAttack.comboCounter <= 2)
+                stateMachine.ChangeState(player.primaryAttack);
+            else if(player.primaryAttack.comboCounter > 2)
+                stateMachine.ChangeState(player.airState);
 
 
 
