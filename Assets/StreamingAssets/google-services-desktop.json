@@ -8,22 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:810592131577:ios:ac11d0e3be3a6951544528",
+        "mobilesdk_app_id": "1:810592131577:android:3a596aa3bafc8d28544528",
         "android_client_info": {
           "package_name": "com.NhemNhem.NhanMaSuyVong"
         }
       },
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCFV6cp5f-MEiLb6k9qvIwxUqGruH2nU_k"
+          "current_key": "AIzaSyBufwu7USDrVmvsiOzqPmpc0NAx85GUAa4"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 0
-        },
         "appinvite_service": {
-          "status": 1
+          "other_platform_oauth_client": []
         }
       }
     }
