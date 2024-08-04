@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "810592131577",
+    "firebase_url": "https://nhanmasuyvong-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nhanmasuyvong",
+    "storage_bucket": "nhanmasuyvong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810592131577:android:3a596aa3bafc8d28544528",
+        "android_client_info": {
+          "package_name": "com.NhemNhem.NhanMaSuyVong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufwu7USDrVmvsiOzqPmpc0NAx85GUAa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

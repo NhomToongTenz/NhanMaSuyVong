@@ -161,7 +161,9 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.2DProject
+    Android: com.NhemNhem.NhanMaSuyVong
+    Standalone: com.NhemNhem.NhanMaSuyVong
+    iPhone: com.NhemNhem.NhanMaSuyVong
   buildNumber:
     Standalone: 0
     VisionOS: 0

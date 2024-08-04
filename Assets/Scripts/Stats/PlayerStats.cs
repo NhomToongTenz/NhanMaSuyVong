@@ -16,6 +16,7 @@ public class PlayerStats : CharacterStats
     public override void TakeDamage(int _damage)
     {
         base.TakeDamage(_damage);
+       // player.stateMachine.ChangeState(player.hurtState);
     }
 
     protected override void Die()
