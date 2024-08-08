@@ -343,6 +343,9 @@ public class CharacterStats : MonoBehaviour
         GetComponent<Entity>().DamageImpact();
         fx.StartCoroutine("FlashFX");
 
+        //var player = PlayerManager.instance.player;
+        //player.stateMachine.ChangeState(player.hurtState);
+
         if (currentHealth < 0 && !isDead)
             Die();
 
