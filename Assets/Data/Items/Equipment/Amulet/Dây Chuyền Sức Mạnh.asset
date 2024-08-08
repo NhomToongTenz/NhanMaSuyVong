@@ -10,17 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: "D\xE2y Chuy\u1EC1n S\u1EE9c M\u1EA1nh"
+  m_Name: Golden ring
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: "D\xE2y Chuy\u1EC1n S\u1EE9c M\u1EA1nh"
+  itemName: Golden ring
   itemIcon: {fileID: 21300000, guid: b969786a2e7f746edae5716566c017ae, type: 3}
   itemId: c4f8a9c7d8c79db4b96b6ffef2e6438c
   dropChance: 0
   equipmentType: 2
   itemCooldown: 0
-  itemEffects:
-  - {fileID: 11400000, guid: 6c856b30363c5aa4a9b61061df07fd57, type: 2}
+  itemEffects: []
   strength: 74
   agility: 0
   intelligence: 0
@@ -36,9 +35,5 @@ MonoBehaviour:
   iceDamage: 0
   lightingDamage: 0
   craftingMaterials:
-  - data: {fileID: 11400000, guid: 201dcf32c23b82649acb65349e91bd6a, type: 2}
-    stackSize: 5
-  - data: {fileID: 11400000, guid: 14caadcff121d434e8b031ae47985e10, type: 2}
-    stackSize: 5
-  - data: {fileID: 11400000, guid: 839fd2910ad77e744a35af1a16bb4118, type: 2}
+  - data: {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
     stackSize: 5

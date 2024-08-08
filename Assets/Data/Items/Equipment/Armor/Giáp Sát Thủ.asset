@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: "Gi\xE1p S\xE1t Th\u1EE7"
+  m_Name: Rogue's jacket
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: "Gi\xE1p S\xE1t Th\u1EE7"
+  itemName: Rogue's jacket
   itemIcon: {fileID: 21300000, guid: cbf8c9a492e8d4847a80b6207bc75868, type: 3}
   itemId: 7d1998873a09b094e99b326bbbc9cccc
   dropChance: 0

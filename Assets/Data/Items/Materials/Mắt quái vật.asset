@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e68041d7a6664343b78658217edc566, type: 3}
-  m_Name: "M\u1EAFt qu\xE1i v\u1EADt"
+  m_Name: Iron
   m_EditorClassIdentifier: 
   itemType: 0
-  itemName: "M\u1EAFt qu\xE1i v\u1EADt"
+  itemName: Iron
   itemIcon: {fileID: 21300000, guid: ad0b8e67800ce41e7adeb610b6b1451f, type: 3}
   itemId: 6835c34bd80fc9c468d2f549f4b6220a
   dropChance: 100

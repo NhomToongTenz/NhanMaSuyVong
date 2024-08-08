@@ -36,6 +36,7 @@ public class PlayerWallSlideState : PlayerState
                 stateMachine.ChangeState(player.idleState);
 
 
+
         // if (yInput < 0)
         //     rb.velocity = new Vector2(0, rb.velocity.y);
         // else

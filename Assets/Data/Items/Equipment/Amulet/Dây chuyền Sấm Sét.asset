@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: "D\xE2y chuy\u1EC1n S\u1EA5m S\xE9t"
+  m_Name: Amulet of God
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: "D\xE2y Chuy\u1EC1n S\u1EA5m S\xE9t"
+  itemName: Amulet of god
   itemIcon: {fileID: 21300000, guid: cccbe0a42541a4ee7b51ce20a923c00c, type: 3}
   itemId: 9209f5c03870ad140b30358835f156bb
   dropChance: 4.5
@@ -36,11 +36,7 @@ MonoBehaviour:
   iceDamage: 0
   lightingDamage: 15
   craftingMaterials:
-  - data: {fileID: 11400000, guid: 9337930988e275044b8e74fa4ca51510, type: 2}
-    stackSize: 1
-  - data: {fileID: 11400000, guid: 14caadcff121d434e8b031ae47985e10, type: 2}
-    stackSize: 1
-  - data: {fileID: 11400000, guid: 23dab0def0f934e4798e7f071ba6ecfa, type: 2}
-    stackSize: 1
-  - data: {fileID: 11400000, guid: eba8ceb1cae4615479d5ce6a9d61367d, type: 2}
-    stackSize: 4
+  - data: {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
+    stackSize: 0
+  - data: {fileID: 11400000, guid: 6835c34bd80fc9c468d2f549f4b6220a, type: 2}
+    stackSize: 0

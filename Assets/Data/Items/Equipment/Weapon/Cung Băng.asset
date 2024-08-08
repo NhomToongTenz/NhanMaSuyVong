@@ -10,17 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: "Cung B\u0103ng"
+  m_Name: Stolen sword
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: "Cung B\u0103ng"
+  itemName: Stolen bow
   itemIcon: {fileID: 21300000, guid: 036e4db281fca402eac90801dfea24ae, type: 3}
   itemId: 7ff875b0438473344864b67d284e3630
   dropChance: 32.1
   equipmentType: 0
   itemCooldown: 0
-  itemEffects:
-  - {fileID: 11400000, guid: 8bf91895f459bd6428de640271f2f749, type: 2}
+  itemEffects: []
   strength: 0
   agility: 5
   intelligence: 0
@@ -36,11 +35,7 @@ MonoBehaviour:
   iceDamage: 0
   lightingDamage: 0
   craftingMaterials:
-  - data: {fileID: 11400000, guid: 5a6cd81aaf50a814cbd0bfa954c58a68, type: 2}
+  - data: {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
     stackSize: 1
-  - data: {fileID: 11400000, guid: eb240d8e2c8358d448769b8c5bb1af05, type: 2}
-    stackSize: 15
   - data: {fileID: 11400000, guid: 6835c34bd80fc9c468d2f549f4b6220a, type: 2}
-    stackSize: 3
-  - data: {fileID: 11400000, guid: 23dab0def0f934e4798e7f071ba6ecfa, type: 2}
-    stackSize: 3
+    stackSize: 15

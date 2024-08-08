@@ -10560,11 +10560,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5d919b49c547184da9b10d7bfd2876f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxItemsToDrop: 2
+  maxItemsToDrop: 0
   itemPool:
   - {fileID: 11400000, guid: 6835c34bd80fc9c468d2f549f4b6220a, type: 2}
-  - {fileID: 11400000, guid: a0300e0089d439943998db8ef1c2617f, type: 2}
-  - {fileID: 11400000, guid: 1fc54958788ad4b49acce7f1d0989161, type: 2}
   - {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
   dropPrefab: {fileID: 8730514117533583190, guid: 7aaa3324c1c4b054ebebaafe3343bf25, type: 3}
 --- !u!114 &3525408569785757236

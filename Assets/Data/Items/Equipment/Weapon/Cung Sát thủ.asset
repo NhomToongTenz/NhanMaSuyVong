@@ -10,17 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 590ef18be3394f74b880d82fac385463, type: 3}
-  m_Name: "Cung S\xE1t th\u1EE7"
+  m_Name: Wooden sword
   m_EditorClassIdentifier: 
   itemType: 1
-  itemName: "Cung S\xE1t Th\u1EE7"
+  itemName: Wooden sword
   itemIcon: {fileID: 21300000, guid: 036e4db281fca402eac90801dfea24ae, type: 3}
   itemId: 5ece859a2341cf24880a2aed82b76148
   dropChance: 64.2
   equipmentType: 0
   itemCooldown: 0
-  itemEffects:
-  - {fileID: 11400000, guid: f2ed38bf0122c0b4799db24b44d43f69, type: 2}
+  itemEffects: []
   strength: 0
   agility: 0
   intelligence: 0
@@ -30,13 +29,11 @@ MonoBehaviour:
   critPower: 0
   health: 0
   armor: 0
-  evasion: 6
+  evasion: 3
   magicResistance: 0
   fireDamage: 0
   iceDamage: 0
   lightingDamage: 0
   craftingMaterials:
-  - data: {fileID: 11400000, guid: 5a6cd81aaf50a814cbd0bfa954c58a68, type: 2}
+  - data: {fileID: 11400000, guid: 69369925ed773dd4f904c6f9ad97e8a1, type: 2}
     stackSize: 1
-  - data: {fileID: 11400000, guid: 6835c34bd80fc9c468d2f549f4b6220a, type: 2}
-    stackSize: 25

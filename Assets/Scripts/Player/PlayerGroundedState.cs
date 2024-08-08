@@ -23,11 +23,6 @@ public class PlayerGroundedState : PlayerState
     {
         base.Update();
 
-        if(player.fx.takeDmg)
-        {
-            stateMachine.ChangeState(player.hurtState);
-            return;
-        }
 
         if (Input.GetKeyDown(KeyCode.R) && player.skill.blackhole.blackholeUnlocked)
         {
