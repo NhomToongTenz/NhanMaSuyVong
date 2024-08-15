@@ -9,6 +9,13 @@ public class UI_MainMenu : MonoBehaviour
     [SerializeField] private GameObject continueButton;
     [SerializeField] UI_FadeScreen fadeScreen;
 
+
+    [Header("Scene to Load")]
+    [SerializeField] private SceneField persistentGamePlay;
+    [SerializeField] private SceneField levelScene;
+
+    private List<AsyncOperation> scenesLoading = new List<AsyncOperation>();
+
     private void Start()
     {
         if (SaveManager.instance.HasSavedData() == false)
@@ -48,6 +55,7 @@ public class UI_MainMenu : MonoBehaviour
 
         yield return new WaitForSeconds(_delay);
 
-        SceneManager.LoadScene(sceneName);
+        scenesLoading.Add(SceneManager.LoadSceneAsync(persistentGamePlay));
+        scenesLoading.Add(SceneManager.LoadSceneAsync(levelScene, LoadSceneMode.Additive));
     }
 }
