@@ -1611,6 +1611,12 @@ MonoBehaviour:
   sceneName: Level
   continueButton: {fileID: 1853159837}
   fadeScreen: {fileID: 1599154866}
+  persistentGamePlay:
+    sceneAsset: {fileID: 0}
+    sceneName: 
+  levelScene:
+    sceneAsset: {fileID: 0}
+    sceneName: 
 --- !u!114 &2004458720
 MonoBehaviour:
   m_ObjectHideFlags: 0

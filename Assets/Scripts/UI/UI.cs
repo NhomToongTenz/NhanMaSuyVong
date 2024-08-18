@@ -65,17 +65,17 @@ public class UI : MonoBehaviour, ISaveManager
         if (Input.GetKeyDown(KeyCode.O))
             SwitchWithKeyTo(optionsUI);
 
-       EndingScene();
+       // EndingScene();
 
     }
 
-    public void EndingScene()
+    /*public void EndingScene()
     {
         if (FindObjectOfType<Enemy_DeathBringer>() == null)
         {
             StartCoroutine(_EndingScene());
         }
-    }
+    } */
     public void SaveAndExit()
     {
         SaveManager.instance.SaveGame();

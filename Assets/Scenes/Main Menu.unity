@@ -6758,6 +6758,12 @@ MonoBehaviour:
   sceneName: Level
   continueButton: {fileID: 1853159837}
   fadeScreen: {fileID: 1599154866}
+  persistentGamePlay:
+    sceneAsset: {fileID: 102900000, guid: a842a1d5053c44adc978aa7af8e234aa, type: 3}
+    sceneName: Assets/Scenes/Pris.unity
+  levelScene:
+    sceneAsset: {fileID: 102900000, guid: 7195ea82d3da84c5892ccab1a676438d, type: 3}
+    sceneName: Assets/Scenes/Room1.unity
 --- !u!114 &2004458720
 MonoBehaviour:
   m_ObjectHideFlags: 0
