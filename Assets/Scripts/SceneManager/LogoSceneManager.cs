@@ -6,7 +6,9 @@ public class LogoSceneManager : MonoBehaviour
 {
     public CanvasGroup logoCanvasGroup; 
     public float fadeDuration = 1f;     
-    public float delay = 3f;            
+    public float delay = 3f;
+
+    [SerializeField] private SceneField mainMenuScene;
 
     private void Start()
     {
@@ -18,7 +20,7 @@ public class LogoSceneManager : MonoBehaviour
         yield return StartCoroutine(FadeCanvasGroup(logoCanvasGroup, 0, 1, fadeDuration)); 
         yield return new WaitForSeconds(delay); 
         yield return StartCoroutine(FadeCanvasGroup(logoCanvasGroup, 1, 0, fadeDuration)); 
-        SceneManager.LoadScene("MainMenuTest"); 
+        SceneManager.LoadScene(mainMenuScene);
     }
 
     private IEnumerator FadeCanvasGroup(CanvasGroup cg, float start, float end, float duration)

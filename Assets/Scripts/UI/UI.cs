@@ -10,7 +10,7 @@ public class UI : MonoBehaviour, ISaveManager
     [SerializeField] private UI_FadeScreen fadeScreen;
     [SerializeField] private GameObject endText;
     [SerializeField] private GameObject restartButton;
-    [Space] [SerializeField] private GameObject endingScene;
+   // [Space] [SerializeField] private GameObject endingScene;
 
     [SerializeField] private GameObject charcaterUI;
     [SerializeField] private GameObject skillTreeUI;
@@ -52,6 +52,15 @@ public class UI : MonoBehaviour, ISaveManager
     void Update()
     {
 
+        if(Input.GetKeyDown(KeyCode.Escape))
+            if(!inGameUI.activeSelf)
+                SwitchTo(inGameUI);
+            else
+                SwitchWithKeyTo(optionsUI);
+
+
+
+
         if (Input.GetKeyDown(KeyCode.C))
             SwitchWithKeyTo(charcaterUI);
 
@@ -64,8 +73,6 @@ public class UI : MonoBehaviour, ISaveManager
 
         if (Input.GetKeyDown(KeyCode.O))
             SwitchWithKeyTo(optionsUI);
-
-       // EndingScene();
 
     }
 
@@ -91,7 +98,7 @@ public class UI : MonoBehaviour, ISaveManager
     }
     IEnumerator _EndingScene()
     {
-        endingScene.gameObject.SetActive(true);
+       // endingScene.gameObject.SetActive(true);
         yield return new WaitForSeconds(5f);
         SceneManager.LoadScene(0);
     }
