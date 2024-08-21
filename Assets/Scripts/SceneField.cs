@@ -1,9 +1,9 @@
+// SceneField.cs
 using UnityEngine;
 
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
-
 
 [System.Serializable]
 public class SceneField
@@ -50,7 +50,7 @@ public class SceneFieldPropertyDrawer : PropertyDrawer
                 if (sceneAsset.objectReferenceValue != null)
                 {
                     string scenePath = AssetDatabase.GetAssetPath(sceneAsset.objectReferenceValue);
-                    sceneName.stringValue = scenePath;
+                    sceneName.stringValue = System.IO.Path.GetFileNameWithoutExtension(scenePath);
                 }
             }
         }
@@ -58,4 +58,3 @@ public class SceneFieldPropertyDrawer : PropertyDrawer
     }
 }
 #endif
-
