@@ -991,11 +991,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _sceneToLoad:
-  - sceneAsset: {fileID: 102900000, guid: 6723d156cf35a4ce38b35eec8ca52c43, type: 3}
-    sceneName: Assets/Scenes/Room2.unity
+  - m_SceneAsset: {fileID: 102900000, guid: 6723d156cf35a4ce38b35eec8ca52c43, type: 3}
+    m_SceneName: Room2
   _sceneToUnload:
-  - sceneAsset: {fileID: 102900000, guid: 6f3cbae3da4f44d57a1f260379c9e96c, type: 3}
-    sceneName: Assets/Scenes/Room3.unity
+  - m_SceneAsset: {fileID: 102900000, guid: 6f3cbae3da4f44d57a1f260379c9e96c, type: 3}
+    m_SceneName: Room3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

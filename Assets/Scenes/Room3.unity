@@ -931,13 +931,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _sceneToLoad:
-  - sceneAsset: {fileID: 102900000, guid: 6723d156cf35a4ce38b35eec8ca52c43, type: 3}
-    sceneName: Assets/Scenes/Room2.unity
-  - sceneAsset: {fileID: 102900000, guid: f2f2f9d1804d84b208525d0c5f9e91e9, type: 3}
-    sceneName: Assets/Scenes/Room4.unity
+  - m_SceneAsset: {fileID: 102900000, guid: 6723d156cf35a4ce38b35eec8ca52c43, type: 3}
+    m_SceneName: Room2
+  - m_SceneAsset: {fileID: 102900000, guid: f2f2f9d1804d84b208525d0c5f9e91e9, type: 3}
+    m_SceneName: Room4
   _sceneToUnload:
-  - sceneAsset: {fileID: 102900000, guid: 7195ea82d3da84c5892ccab1a676438d, type: 3}
-    sceneName: Assets/Scenes/Room1.unity
+  - m_SceneAsset: {fileID: 102900000, guid: 7195ea82d3da84c5892ccab1a676438d, type: 3}
+    m_SceneName: Room1
 --- !u!61 &1369838224
 BoxCollider2D:
   m_ObjectHideFlags: 0
