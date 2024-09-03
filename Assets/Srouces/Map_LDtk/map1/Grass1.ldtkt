@@ -1,0 +1,36 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 2,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "00000000",
+      "averageColors": "35723572357235723572357200000000"
+    },
+    "customData": [
+      {
+        "data": "animatedSprites 0,1,2,3,4,5\nanimationSpeed 13\nanimationStartFrame 0",
+        "tileId": 0
+      }
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Grass1",
+    "padding": 0,
+    "pxHei": 64,
+    "pxWid": 128,
+    "relPath": "../sidescroll-worlds-set1/_PNG/anim/grass1.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 71
+  }
+}

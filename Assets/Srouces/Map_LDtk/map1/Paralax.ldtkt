@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 15,
+    "__cWid": 20,
+    "cachedPixelData": {
+      "opaqueTiles": "111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+      "averageColors": "f5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf4cdf4cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf6cef6cef6cef5cef5cef6cef5cdf5cef5cdf5cdf5cdf6cef5cef6cef5cef5cef5cef5cef5cef6cef5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf5cdf6cef6cef6cef6cef6cef6cef6def6cef5cef6cef6cef6cef6cef5cef5cef6cef5cef5cef6cef5cef5cef6cef6cef6cef6def6def6cef6cef6cef6cef6def6def6dff6def6cef6cef6cef6cef6cef5cef7cef7cef6def7cef7cef7cdf8cef7cef7cef7cef8cdf9cdf8cef7def7cef7cef7cef7cef6def6def9cdf9cdf8cdf9cdfacefacefbdefbdefbdefbdefbdefbdefbdefbdefbdefbdefadefadefbdefadefadefadefadefadefadefadefadefadefbdefacefbdefadefadefbdefadefadefadefadefadefbdefbdefbdefbdefbdefadefadefacefacefadefadefbdefbdefadefbdefbdefbdefbdefbdefbdefbdefadefadefacefadefadefbdefbdefadefbdefadefacef9cefacef9cefadefadefadefacefadefacef9cdf9cdf9cef9cef9cdf9cef9cef9cef9cef9cef9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cef9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cdf9cd"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Paralax",
+    "padding": 0,
+    "pxHei": 480,
+    "pxWid": 640,
+    "relPath": "../sidescroll-worlds-set1/_PNG/background/background_day1.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 74
+  }
+}

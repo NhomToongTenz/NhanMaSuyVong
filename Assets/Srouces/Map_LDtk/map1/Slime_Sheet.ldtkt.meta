@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 8c0ebd5ea13f8a64d86e388457f9730f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Slime_Sheet_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 43
+      width: 32
+      height: 32
+    spriteID: ac3eea76fd6b05f41a9030a3298212fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 43
+      width: 32
+      height: 32
+    spriteID: 6b8d367d7ad5b8241a6c7ef43e9c5181
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 43
+      width: 32
+      height: 32
+    spriteID: a1d1dc3cbc9c1904788236e7591bf6ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 43
+      width: 32
+      height: 32
+    spriteID: 3b5752bf2185302418a29947616c50b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 43
+      width: 32
+      height: 32
+    spriteID: 01484f64ec1095a4683bb10f4f1c4485
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 43
+      width: 32
+      height: 32
+    spriteID: 56eb40780ba83a747a86378d5561fd49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 43
+      width: 32
+      height: 32
+    spriteID: 70e9a05bc6efee047be559b949ae0117
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 43
+      width: 32
+      height: 32
+    spriteID: ca0e75422ad5f894784535bb30cd099c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 11
+      width: 32
+      height: 32
+    spriteID: cf9e6f307c9f3184f96659f1cadb9a2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 11
+      width: 32
+      height: 32
+    spriteID: 184c8d7510da22546b72c7972b71f090
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 11
+      width: 32
+      height: 32
+    spriteID: 86f48a2853ef23948aa598f77429da01
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 11
+      width: 32
+      height: 32
+    spriteID: d9fa0a713558dc24382ec51afe066886
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 11
+      width: 32
+      height: 32
+    spriteID: 77f1b64abf0fd9e40bba5626f573768e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 11
+      width: 32
+      height: 32
+    spriteID: 6074d81677ca6194293d53d7d66b5e3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 11
+      width: 32
+      height: 32
+    spriteID: 1850e3d3813a10c4bb590af2fb437ed0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 11
+      width: 32
+      height: 32
+    spriteID: c3b21b19c7d3dce46b381f2836d889c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 32
+      height: 11
+    spriteID: da6532aeaedc52a4b969a6d497a38bab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 32
+      height: 11
+    spriteID: 39dc30f00f2126340b618be63e2090c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 32
+      height: 11
+    spriteID: 3df6cc63406feb640aa23d0e86520570
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 32
+      height: 11
+    spriteID: 124ba1a67c3430046992561a32a19df1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 32
+      height: 11
+    spriteID: 9c3a82e7e263271489d843d5fde791ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 32
+      height: 11
+    spriteID: 02c0158893f37404c96576f84edafeba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 32
+      height: 11
+    spriteID: e5734e8c2ee5a2545bd71fca08c36aa1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Slime_Sheet_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 32
+      height: 11
+    spriteID: 32b1b65d5f8844b41915dd791b072d0d
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

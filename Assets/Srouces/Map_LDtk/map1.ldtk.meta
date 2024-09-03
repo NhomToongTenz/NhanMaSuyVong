@@ -22,7 +22,7 @@ ScriptedImporter:
   - _key: Grass_Platform_1
     _asset: {instanceID: 0}
   _entities:
-  - _key: Entity
+  - _key: Slime
     _asset: {instanceID: 0}
   _enumGenerate: 0
   _enumPath: 

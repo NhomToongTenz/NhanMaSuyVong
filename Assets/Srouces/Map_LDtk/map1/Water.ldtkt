@@ -1,0 +1,36 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 2,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "11111111",
+      "averageColors": "f155f155f155f155f155f155f155f155"
+    },
+    "customData": [
+      {
+        "data": "animatedSprites 0,1,2,3,4,5,6,7\nanimationSpeed 13\nanimationStartFrame 0",
+        "tileId": 0
+      }
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Water",
+    "padding": 0,
+    "pxHei": 64,
+    "pxWid": 128,
+    "relPath": "../sidescroll-worlds-set1/_PNG/anim/water.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 64
+  }
+}

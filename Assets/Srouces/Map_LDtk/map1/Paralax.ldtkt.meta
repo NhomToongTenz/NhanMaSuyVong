@@ -1,0 +1,4215 @@
+fileFormatVersion: 2
+guid: f49607fce9d5ab5499227675ddf56a09
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Paralax_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 448
+      width: 32
+      height: 32
+    spriteID: fab85b16135a2e24e87163ec8ad83f70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 448
+      width: 32
+      height: 32
+    spriteID: ff294026f5fcf7743bc0129a8559e52f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 448
+      width: 32
+      height: 32
+    spriteID: a650f2d8717aa7d45973dfcef620cab5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 448
+      width: 32
+      height: 32
+    spriteID: b276756b6954178458c862a4ad402991
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 448
+      width: 32
+      height: 32
+    spriteID: c223df5a3f5f6864d85fc27954686ca7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 2c54aabc8a975d94ebdebb16acd44c6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 7142529c19b9fb34797d394566a62b04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 444f4077c73243146b88b0db99e10102
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 3aff607ce8fe8334e8e7a71bce50d027
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 7298c5b098c58be48a8d9912957533a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 49e7035a8c64a8e48b33375abc6f1da9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 66f5f9b3b157e314892f6222ad557626
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 294fee7939a79224c9854c476d6afbba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 448
+      width: 32
+      height: 32
+    spriteID: c8c6bb1429d045940a725dbd96f408fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 448
+      width: 32
+      height: 32
+    spriteID: d63da0e6a4b9de64eadfdbfd258951dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 448
+      width: 32
+      height: 32
+    spriteID: d8cb56956df54414a9e329fb1a833553
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 448
+      width: 32
+      height: 32
+    spriteID: e05a98c6f1996b0478592e306700a350
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 3eee0c8288cdd6f4d89dcb3e80b6de7d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 448
+      width: 32
+      height: 32
+    spriteID: ca16e178db3b21a44a6eb7d877b5ccef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 448
+      width: 32
+      height: 32
+    spriteID: 23e3634b34cd3b8459e308133252afa1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 416
+      width: 32
+      height: 32
+    spriteID: afd54fdd5964fab48bb4a795717b8935
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 155532c4412f02a4b8ddaade067e5082
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 416
+      width: 32
+      height: 32
+    spriteID: b7723fee8b3d2f2429b8133f69cbd293
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 40a2965c8336f82488e54ccc1ec5a8bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 3a6809bf8a63c9e419135dbc8ef96f4a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 51e4cbedf8f413e4590a0f42830f713b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 9c053a9f71013d84f8f8e9700167fae2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 416
+      width: 32
+      height: 32
+    spriteID: d4c9bdc031c732f4e9b8c054c1e8d073
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 4e7dc87a41315b24384051622cafddb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 416
+      width: 32
+      height: 32
+    spriteID: da1c846726c58474f89b20a9f116ac31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 658fa17f56edc6944a13ec498f1f50c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 48392674db6f05b43bc50cb1c8c465d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 0cc09247517305b4f82c062c487e36a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 416
+      width: 32
+      height: 32
+    spriteID: c430d2a813d49c74aaa5ddf5865b07a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 9f949cb76bf476748a929ab2cc5b5ab1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 416
+      width: 32
+      height: 32
+    spriteID: d5b70741641d3e24daad7b588ff5a1ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 91e6b71f2a705614681812acec5a44f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 744dc0f4ae41362408286fcbddb9bcf1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 0e66e16fc71d392478f95a6875a89866
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 416
+      width: 32
+      height: 32
+    spriteID: 1f9f2e657754d2e4cb4bd093c96b3f11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 384
+      width: 32
+      height: 32
+    spriteID: c28b94130da62244ab82818016365f22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 384
+      width: 32
+      height: 32
+    spriteID: aa4085f8fdc2f584dab1323d809e9a74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 968bc19acef98644d93ed46c7558ccb6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 81f004e97d23f2143a23c09902237866
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 53dd984f95b683540af4c96fd4e63b50
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 384
+      width: 32
+      height: 32
+    spriteID: fa2b10b7efadbd74dad4c0b5889cf7b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 384
+      width: 32
+      height: 32
+    spriteID: bde3a691e32581e43a6ca1f2aa40934a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 23f6b1c3515355541b95b25cbf4fca5a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 8cf645ebb0ae5b34599e855244ba8fa3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 1627fee4e45bb3b4a9c85a8137dd07c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 06c86784e125e654bb39325835d90668
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 384
+      width: 32
+      height: 32
+    spriteID: d07a977af1d569c4e9e02eb65efff1ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 14f7242ad6f661e4ba22db284c46e465
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 9d3d377862aeb694dbff10c651a873c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 384
+      width: 32
+      height: 32
+    spriteID: b684a0a585e3a7d4d929487b960df6cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 2c2ddebd9a038d54cad78ebedffd7dc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 248f15f358b671847a680203b9bd9777
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 75baa4e057a73244ba7e48d89dc6e189
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 72ee47f4d0879fe4bb5c9872d13dfd50
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 384
+      width: 32
+      height: 32
+    spriteID: 2818b749983aa1a4ab78a2fd384002bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 352
+      width: 32
+      height: 32
+    spriteID: a3f002cbf1fe76942946449db272f611
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 352
+      width: 32
+      height: 32
+    spriteID: cac0e20b9d3a73248a55f18dd389f18b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 352
+      width: 32
+      height: 32
+    spriteID: f932e83a93e3b494ea563a679897a51a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 352
+      width: 32
+      height: 32
+    spriteID: d7f61e25aea112b4ca14f6aae28600c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 3ac578b4d99c1374ca9fb369bb866093
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 352
+      width: 32
+      height: 32
+    spriteID: df105a6334f43174da0d30a4242bebb7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 49baf3a7722eae14c9a1bdf12c0a71b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 352
+      width: 32
+      height: 32
+    spriteID: e67fe1c8c27c6ee419fdcf640390af35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 1d73fd203e2091741b77290d32018ed9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 09133e06a5957b74e914523b8b106640
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 352
+      width: 32
+      height: 32
+    spriteID: afdba52e81529c94ebe846074d8a1cfb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 2a16efbf3239a3e48ace4f8cd9720a17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 6dfbc932fb42892428ab5534b34b5120
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 8eb9f77ee28e5ff46b247550a23e55c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 352
+      width: 32
+      height: 32
+    spriteID: b6272c027f2d3134193a5d548f50d2e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 352
+      width: 32
+      height: 32
+    spriteID: f89cf8d6b54056b4c886da9b3bd03ca6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 352
+      width: 32
+      height: 32
+    spriteID: ce8628baceef7484e87860c473fdfdaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 54ba2b9acd8e2af4e866e69dfe592862
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 8973801530e2b7245a20274c1cb41c0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 6e965f4c0aa340744a25a17dbdeb4f10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 246886cd74f7c234f957a9b417ffecd8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 320
+      width: 32
+      height: 32
+    spriteID: fe27f405b24a1f4439f01f544d036a06
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 320
+      width: 32
+      height: 32
+    spriteID: d3d4a3b62be934c408392b07109cb9e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 504993034e6198b43b425e82f9224388
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 1e546c0292c589d44b75f5a1baad3b47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 13ce33ea480b10b40957759eff2f2f11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 55067580ada16234390f05964a125ec5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 46b34623809030941b09e733f990c972
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 12685c8df44ed2049b28ee661eb20fe3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 9aebe863f1114364587608a520d6de18
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 320
+      width: 32
+      height: 32
+    spriteID: d0094727f663a07419697752d0f7aca9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 320
+      width: 32
+      height: 32
+    spriteID: fd60bd919c3be624b829e756cba07950
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 3e33f48bd7ff9ee44b39a5f0b3fa3ba4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 1960e6c35f72e924aba1ab2807934c34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 0a11a3bd37a4df6469948b560f630b15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 320
+      width: 32
+      height: 32
+    spriteID: c789dcd6a9bee4d4e928b244d9ad11e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 320
+      width: 32
+      height: 32
+    spriteID: fdc5621769a18f64cabb0b0207053893
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 320
+      width: 32
+      height: 32
+    spriteID: b4cfa507f68fcf04f9252f991365232f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 320
+      width: 32
+      height: 32
+    spriteID: df1ddeeea66c03c46845a3a220ae68b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 4e858c860744e6b449971443e0ab4ecb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 36479c6b0220c144d8fb6e4339ee3c79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 0b72f761c1abfa34a93765a67a62a04a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 288
+      width: 32
+      height: 32
+    spriteID: fbaf3439fd64898439ccdfd482c6e53d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 288
+      width: 32
+      height: 32
+    spriteID: ba7939beb50034b4ab1c45cd79cae330
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 69b4e303f8cbd314fabbb41606c513f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 288
+      width: 32
+      height: 32
+    spriteID: c7095e7c0d483a84490740e3f27e0c69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 4378fe784b32d6044ba52b7845e3b7dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 6a5b4cd238411204b910160be7f036d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 024b6bca17d114d448cfb93250bc19ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 288
+      width: 32
+      height: 32
+    spriteID: bcf42038e71d6bd4f88f3d7a25421b7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 6836fbe09d5d7594e959bcd22be5778b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 288
+      width: 32
+      height: 32
+    spriteID: f0d60c542c4cace448f959a7d5f2e138
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 61f8a3fcf5c8ab04e82e20768cfe7237
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 37fb55e9fb81bd6428d8c804cdaf599d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 1b8d2e11d493504458bcbd14cd0dd00c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 307bb5aef5f5a4b4c8b7d04a360dc56d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 288
+      width: 32
+      height: 32
+    spriteID: bcb20ee358f2ede4e87c739e8e79a666
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 288
+      width: 32
+      height: 32
+    spriteID: e7906ea2b507d17479664f1e1fd3f172
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 193343be8bb08d147acb465034c610a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 3039516dce7ae024b890ed6b162e39c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 0ddf334e4771a8a418369d7e7e3df3b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 13cd477a11b8f68499e300593d388053
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 9be814310d06de44e977eac346d17e11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 256
+      width: 32
+      height: 32
+    spriteID: d013a7ce6478c00468762793d85bb37e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 47e86a1d1c458324ca183fe9ab0fa98e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 256
+      width: 32
+      height: 32
+    spriteID: c122237b775c431469b7f054b62e3e12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 45e67221be59fbd499daba7ac47ab47c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 256
+      width: 32
+      height: 32
+    spriteID: a0c7c22bd8606d8438e42b4fa6041839
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 256
+      width: 32
+      height: 32
+    spriteID: e09d6b147954c1f4b91e1601db2ceb68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 5ce938af39e8ec547b1860f646157882
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 2f031019faf8c164cbe26dbd186e3b65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 256
+      width: 32
+      height: 32
+    spriteID: a1e9de6370538454aabf2eba92f7bfce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 256
+      width: 32
+      height: 32
+    spriteID: e7f96241495d0ab4b9e1428b80471da0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 122e13f8c377119459e67f902232ecde
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 51a31ce8d39780c4fbbcdeec6511a80f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 80101128b5e08a74d912acf6aebc3e45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 0cab0edbd31cc7744bbc982486ddeb71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 4672cd63e83f0d8478cc981af4ac16f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 176c904fea706a044bdad21489f5c879
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 256
+      width: 32
+      height: 32
+    spriteID: e314e316b7ff50440a853b0919524ccf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 0620e0e331909b0409462a6f465e1dd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 7650e1552a24e48439af21fc7c02e202
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 06a84a2d61eafcd44bc6b7cbbba76292
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 837647bfdd687a546930b72837df4e3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3cba135bfb48cb940bb08012d67c4b51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 1070d826411442746a695d5af894f7f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 32
+      height: 32
+    spriteID: ace64662b718ad74cb6065bffa0bba54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 7932d80ef8e26894d902de6dd90230e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 07002780cea9d7342be222347cbb5848
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 0ca35181371efd14292577ec7bc628f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 034dcbb4fac55e1459a66d642a29fc19
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 573957bfe54334148a7102378e281019
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3a9aa0e8c4632824499377cdfb280d99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 8979486422262c24881fa788d2ac536c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 8922518a7933beb47951d0578c7d7ac3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 224
+      width: 32
+      height: 32
+    spriteID: df1ba783f8bb6944cbc3d9113b656b0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 4861e5b539228744b92014985ba12105
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 34bf6eb69224cdf41884b00dc54f0a65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 224
+      width: 32
+      height: 32
+    spriteID: bbe9e533ed6fd1e43b75f192b8ec5506
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 224
+      width: 32
+      height: 32
+    spriteID: b4a6f9f909d701b47bd4c98dcce4a2dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 32
+      height: 32
+    spriteID: ffad037f2167e0147a0f0cd69fed0aff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 32
+      height: 32
+    spriteID: e96e69693b111a949945fde28bea368f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 416e9b67c1c36a044a44b1e92e059079
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 80d17b61b533a9c47b3f40afeb82aaee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 32
+      height: 32
+    spriteID: ee4bc19a825226e4bbfe1594a8420c2b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 32
+      height: 32
+    spriteID: ae7b0092d173e9a4d91ea8331b793437
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 32
+      height: 32
+    spriteID: d0e45ebba3f63c44e8ee18db02784581
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 32
+      height: 32
+    spriteID: be9e9f07f6bf74f449c161030bed9b1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 1ce66ab3b0aaad54e80722eaea5dbb38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 192
+      width: 32
+      height: 32
+    spriteID: e1a37546426198642affb35a0536d99f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 8aee89375c1d66e40940fef8af41205a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 702d4577d7e05e04d9d0836d1d71bc36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 794b4f42ddd93ee4ab4b95e4cc210f29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 1d40d4585e49e6447948c5bb04eca192
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 192
+      width: 32
+      height: 32
+    spriteID: e740da5ebed06644790e22031a27b36e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 192
+      width: 32
+      height: 32
+    spriteID: ec3584128fd293d42a2162199192b6a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 3f5c3cc8ee9b2bc4cb16fc91732d7990
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 192
+      width: 32
+      height: 32
+    spriteID: b2d21d5a1807dc548884dc8ec4e7c0f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 192
+      width: 32
+      height: 32
+    spriteID: f483e9d459fdfd544b9ef2bf89a47d38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 67674f6caea36d847a53ce673dde17e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 5dfdc4a3d75fd3b41bda11cbfd2bed94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 32
+      height: 32
+    spriteID: c11409036f51b96418e1b2277c473fea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 9103b9ff49cdbc040aab4ff56e12bbc4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 0dc6be50523fa864eaa8e7ad8589010b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 7715660d98a0d1a408450eecc1c3b3f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 62d1ce42e888df541a87bcb802296d8e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 93413e472296ba44e9b4e9fa7ffbc7de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 725d83b50d71a2340849997b3cbf2c70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 32
+      height: 32
+    spriteID: a3dbddda119d62a47a0bb2b88bf0551f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 160
+      width: 32
+      height: 32
+    spriteID: a1cd8d007e24ca0498a63db51ef818a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 3b7dbccc6e1feb640a755fb5fa68a063
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 22240d0196dfebc4b818928c45c20589
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 62621f3188899c747a927c3e5c1103fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 164b722062810bb4f93d5b1041ad2ffd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 584b54c2601510d4c85b7005d1b0f44c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 160
+      width: 32
+      height: 32
+    spriteID: fab5fdb41a2d39c4abef1a1b74b62d3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 160
+      width: 32
+      height: 32
+    spriteID: c8d4e4ad72fd84a4a9ae7552155a81db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 1ce8b2d9874cc3146bd4ede7594e58a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 160
+      width: 32
+      height: 32
+    spriteID: c0300f52c8552ed47b2fd16c87f475f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 160
+      width: 32
+      height: 32
+    spriteID: eda3f33ac4850f048b73ba0efb9177e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 9afb26c9e85616d43aa2cea9a574999e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 6561a866a17224841b11df601901090f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 3b5aa5dd6d6f7ef4a9be13b38a813822
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 93dcca58d3dd7e841a1de347737c507e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 32
+      height: 32
+    spriteID: f14cb85aa78fa004e84c4ea960ec7ea5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 24190a4eaaf23cb498f59b29a23cec9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 167d23168090fa74cacd36b961d4397e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 51979bc337bc7fe4ab767fdaeb537fb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 32
+      height: 32
+    spriteID: b5fc92fd20844cb4184a071986b1fbbf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 9ab254c1eb5d6eb4f9ac7f650ce62f75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 821a503c2140d8641a7ef86f7627c66c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 3b8ca0c53fbd78c4e93a8daea117e629
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 758779d052de15d40bab82d77d940b90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 8a3288d059f2a0c48902bb54f65505b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 0401f7ac6b9a07e4686ebdb2674ceae9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 772c5211ec5279d49ba37677e5f9d5b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 128
+      width: 32
+      height: 32
+    spriteID: d2d46ab60508ff4498bf0d5bb3050bdc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 65877d8a996b8744fb6c9f4cfe65d9ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 5efb6bb2a61aece49a15d3076f2b469c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 128
+      width: 32
+      height: 32
+    spriteID: bdfaa0e16b321a84da8ecacc5c5f2b7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 32
+      height: 32
+    spriteID: edbdfef4e8489714a840ca19032debbb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 1d71c197d9e2b2146ab21dff69f51170
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 12372c7925487fb4bbea584b7ecba021
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 32
+      height: 32
+    spriteID: f7ad261e5fb868047a7fb480c4e5ba37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 9623c290cf543094283c191b12fa25b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 32
+      height: 32
+    spriteID: ada5541b96e80c149867c77b13df4ba8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 03974678c19974346bf5c3f9243267a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 909009a9f680137419a7ade6730e90b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 06fe3ebfbfcef6343b58a1597b15b554
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 96
+      width: 32
+      height: 32
+    spriteID: e10e71a2e3421f14b98759df82763084
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 96
+      width: 32
+      height: 32
+    spriteID: ea3fb28dc4bd05548b1c3d077d993a5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 96
+      width: 32
+      height: 32
+    spriteID: af69cd90877c7c54397056b11d96fb1c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 21a4f51808ef9064fb07401752c1a748
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 9b61b41aad0a8bd4eb77314bde5022f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 96
+      width: 32
+      height: 32
+    spriteID: e6092e61ec3a9714cb3bd500d4c64c34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 2a6ab3d82582ce741b5760985312bfcd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 96
+      width: 32
+      height: 32
+    spriteID: a23240b8265e30945aa8e8a43270f395
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 2d222fdcd8322f34e9e98a16b290f9f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 643c346d2a422eb419ca1f806e9664dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 67bea1eac2b8b944eacb7d6595a2b781
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 12f3aed312b79f7458fffe7b12f401e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 908974f34dceb8942aa8df0ab76f7a8a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 32
+      height: 32
+    spriteID: b32a0eb96f59b964e94aecc966e32e24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 9c06fc73626a8e846a7150c25bb26643
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 5a38a257857406f45853e37a59c40f03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 32
+      height: 32
+    spriteID: fba1b887bbbd7194197abc97558b558c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 32
+      height: 32
+    spriteID: dc9ff49f33d70004588ce3f0b14e8e37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 32
+      height: 32
+    spriteID: cc21acbfcfb25c143982912a7a05445b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 32
+      height: 32
+    spriteID: db6fe6604d9f7f544a0bbe4d069934c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 548055b4188e66940b6c6f764fe7bded
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 8383320382a38e544bf727263247228e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 8c0983e3c403bd34cb1c14ca7dff688e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 951782b522434c749ac49ef80c6b7d3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 2a892a2b1084ba44a8b87ace92d21ff9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 540f4d2dc786b6f40a4c8cfa4e898049
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 3660b3f7fbbc14444aea95f2f2114796
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 44ef764980b7b584e86ccdf9a0395b02
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 64
+      width: 32
+      height: 32
+    spriteID: a3cfc09f6797a94418d50af55f38b758
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 0d17dc894b1b6bf41a040a9f6c0777c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 64
+      width: 32
+      height: 32
+    spriteID: ab52a1731a9d4bb4cb075e44399899f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 43ef0204fd89712409e10c4260736c40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 32
+      height: 32
+    spriteID: eddfd6005e86af74185f501ef9d13d3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 5f49c2d9130e19040a4491f5fb527557
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 9a2d4ebc1a78918408e5c502c537a03d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 32
+      height: 32
+    spriteID: b5064fd6bf9ffdc48a24dec1577ab3c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 5d1f79220afca5749be5fffa01d26840
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 2383c29f487b193428d5a18976adef69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 32
+      height: 32
+    spriteID: d4692415a68ee4247b3b43081e31ea97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 806db4f3af0edb14e9f230c6eb559232
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 32
+      width: 32
+      height: 32
+    spriteID: f0a8eb9956973594fbc874e7810247df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 32
+      width: 32
+      height: 32
+    spriteID: fc15b4a60b8bc4344936c73ec660457d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 253368ba4b1773e4882c1d53c3ca760c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 32
+      width: 32
+      height: 32
+    spriteID: c1a4f4c6a0b1a9b42bb0846f3e223617
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 76bd50622d1a21247a1779bb356e6bd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 32
+      width: 32
+      height: 32
+    spriteID: b2bb96affb4d48e488d90b5c5d9c9025
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 3cb820027b02cac4ca0640d769ecd839
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 1560d30036a21b042ae972eba7db8918
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 32
+      width: 32
+      height: 32
+    spriteID: c72d2e0e1b79cdc4282371f4df858cf4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 2e5137062aa66da4f8ad91bb6d1082d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 32
+      width: 32
+      height: 32
+    spriteID: dca13b3fb5d53434c83f247072dcca69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 13b557d73c6c62c4faa22aa44c6d8cc0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 32
+      height: 32
+    spriteID: cd8da743a54b64c4c88f0e05832e65b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 93045393d0f60d04b9481ca11167a55a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 32
+      height: 32
+    spriteID: d8b04f1d8292cb544b46bc935a222f9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 97d12cdd687fa0948b98ca9cdc40a334
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 32
+      height: 32
+    spriteID: a08f18100386ab74793cd27f6181c92b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 3dc0fe9fab3bc0a4bbbae2d4617b3d38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 5a7c5bbd28f104449a86dbfa912cae0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 32
+      height: 32
+    spriteID: a06340f1e4ae0e44a9bcb40fd3b24b8a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 5c443626f636c8a46b68f8049538e283
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 2f110e52097d8e744b1539d311431c64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 58e8075da33a9db49b8979e7832ff5d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 5ceab8c3b6a373b43b7568cf72a25430
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 62d6f5a77d3e75f4a87d6fe5b49f9f7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 85005030dd0e7c742abf4db9b0d367bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 90c3749829b955546b2d7879fd5be64a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 05caa4529dcecbe4aac6a4a00dfbb44d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 0
+      width: 32
+      height: 32
+    spriteID: d1c4b838be182b14aa1400f8c85b342b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 576
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 9f9b64984995d7343ade708e9c33114a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Paralax_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 608
+      y: 0
+      width: 32
+      height: 32
+    spriteID: b9828dd784ecad04298e38bf788cfad7
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

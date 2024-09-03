@@ -1,0 +1,40 @@
+{
+  "Rects": [
+    {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "Def": {
+    "__cHei": 3,
+    "__cWid": 8,
+    "cachedPixelData": {
+      "opaqueTiles": "000000000000000011111111",
+      "averageColors": "457a457a567a457a357a357a356a357a468b467b646a557a457a457a357b457a00000000000000000000000000000000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Slime_Sheet",
+    "padding": 0,
+    "pxHei": 75,
+    "pxWid": 256,
+    "relPath": "../Graphics/Enemies/Slime/slime-Sheet.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 40
+  }
+}

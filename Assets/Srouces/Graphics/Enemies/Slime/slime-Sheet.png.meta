@@ -3,7 +3,7 @@ guid: 5b37f7e31a19796489c254db0005907c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -63,18 +64,20 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -87,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -99,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -111,6 +116,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -123,6 +129,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -580,33 +600,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      slime-Sheet_18: 516486763
-      slime-Sheet_5: 826485724
-      slime-Sheet_21: -1310316291
-      slime-Sheet_6: 359496615
-      slime-Sheet_14: -995307541
-      slime-Sheet_20: -307514318
-      slime-Sheet_8: -81275932
-      slime-Sheet_10: -1655088485
-      slime-Sheet_1: -78005018
-      slime-Sheet_9: 1755219396
-      slime-Sheet_4: 123725063
-      slime-Sheet_15: -1403833490
-      slime-Sheet_2: -676831742
-      slime-Sheet_17: -476264098
       slime-Sheet_0: -1575814570
-      slime-Sheet_13: 950798296
-      slime-Sheet_23: -1369110871
-      slime-Sheet_22: -1862759946
-      slime-Sheet_7: 981517598
+      slime-Sheet_1: -78005018
+      slime-Sheet_10: -1655088485
       slime-Sheet_11: 598232900
       slime-Sheet_12: 1489506834
-      slime-Sheet_3: 710542497
-      slime-Sheet_19: -2064235219
+      slime-Sheet_13: 950798296
+      slime-Sheet_14: -995307541
+      slime-Sheet_15: -1403833490
       slime-Sheet_16: 134597426
-  spritePackingTag: 
+      slime-Sheet_17: -476264098
+      slime-Sheet_18: 516486763
+      slime-Sheet_19: -2064235219
+      slime-Sheet_2: -676831742
+      slime-Sheet_20: -307514318
+      slime-Sheet_21: -1310316291
+      slime-Sheet_22: -1862759946
+      slime-Sheet_23: -1369110871
+      slime-Sheet_3: 710542497
+      slime-Sheet_4: 123725063
+      slime-Sheet_5: 826485724
+      slime-Sheet_6: 359496615
+      slime-Sheet_7: 981517598
+      slime-Sheet_8: -81275932
+      slime-Sheet_9: 1755219396
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
