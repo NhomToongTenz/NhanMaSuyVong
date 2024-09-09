@@ -54,7 +54,7 @@
 			"entityInstances": []
 		},
 		{
-			"__identifier": "Slime",
+			"__identifier": "Entities",
 			"__type": "Entities",
 			"__cWid": 120,
 			"__cHei": 68,
